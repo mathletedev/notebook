@@ -1,0 +1,6 @@
+{
+  "catppuccin@@default-font": "\"Cascadia Code PL\", \"Vollkorn\", \"Gentium Book Basic\", -apple-system, blinkmacsystemfont, \"Segoe UI\", \"Microsoft YaHei Light\", sans-serif",
+  "catppuccin@@not-editor": "\"Cascadia Code PL\", \"Public Sans\", \"Gill Sans\", -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif",
+  "catppuccin@@mermaid-font": "\"Cascadia Code PL\", \"Inter\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Microsoft YaHei Light\", sans-serif",
+  "catppuccin@@font-monospace": "\"Cascadia Code Mono PL\", \"Mononoki Nerd Font Mono\", sfmono-regular, consolas, \"Roboto Mono\", monospace"
+}

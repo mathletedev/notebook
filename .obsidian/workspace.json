@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "3496080dc80a0860",
+    "type": "split",
+    "children": [
+      {
+        "id": "1169b158565415e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73381f090e1a09ff",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "d3ce7eddd193399c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "historical_literature/frankenstein/Bioethics.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2634904c7ef11cd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4c35a3aab6ca4d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb979ed7fa7e7872",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f9c2ac6dbafc0c29",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eca61a608baf5160",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269
+  },
+  "right": {
+    "id": "9cb97a289a342cad",
+    "type": "split",
+    "children": [
+      {
+        "id": "20915cf4aa93f774",
+        "type": "tabs",
+        "dimension": 52.84552845528455,
+        "children": [
+          {
+            "id": "54673a3dfefa30f0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "be6631216710b3ae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "32b15ee34f0583e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "650829df35d58139",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "db316704a1cbb2be",
+        "type": "tabs",
+        "dimension": 47.15447154471545,
+        "children": [
+          {
+            "id": "3d1381b9faa89363",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 344
+  },
+  "active": "73381f090e1a09ff",
+  "lastOpenFiles": [
+    "historical_literature/frankenstein/Bioethics.md",
+    "physics/2-D Kinematics.md",
+    "physics/Kinetic Energy.md",
+    "notebooks/physics/Momentum.md",
+    "notebooks/physics/Impulse.md",
+    "notebooks/historical_literature/Root Words.md",
+    "daily/2022-12-14.md",
+    "daily/2022-12-13.md",
+    "daily/2022-12-12.md",
+    "daily/2022-12-11.md"
+  ]
+}

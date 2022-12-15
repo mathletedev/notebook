@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "88b572b9a056b541",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8f1a8b750d80b45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3813e7eab8fd75ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notebooks/physics/Momentum.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "79d70216c0cf3e8b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4212a0ee6ed0bb67",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "72b29edac39f62aa",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f24e864cd32489a3",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "923bb6fae9ad144b",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "452deec6323e62af",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "86164bc9a07602ca",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "notebooks/physics/Momentum.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "2289ef9d026c3505",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "notebooks/physics/Momentum.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "ec12184f1ac7cccd",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "notebooks/physics/Momentum.md"
+          }
+        }
+      },
+      {
+        "id": "2a6edc4c380e6330",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "f454f397921e4621",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "active": "3813e7eab8fd75ee",
+  "lastOpenFiles": [
+    "Impulse.md",
+    "notebooks/physics/Momentum.md",
+    "daily/2022-12-14.md",
+    "notebooks/historical_literature/frankenstein/Bioethics.md",
+    "daily/2022-12-13.md",
+    "notebooks/physics/Kinematics.md",
+    "notebooks/physics/Power.md",
+    "notebooks/physics/Scalar.md",
+    "notebooks/physics/Spring.md",
+    "notebooks/physics/Friction.md"
+  ]
+}

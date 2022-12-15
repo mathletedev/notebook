@@ -1,0 +1,13 @@
+{
+  "tabSize": 2,
+  "vimMode": true,
+  "spellcheck": true,
+  "showInlineTitle": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "en-GB"
+  ],
+  "livePreview": false,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
+}
