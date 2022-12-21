@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "physics/Impulse.md",
+                "file": "physics/Friction.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "physics/Impulse.md",
+            "file": "physics/Friction.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "physics/Impulse.md",
+            "file": "physics/Friction.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "physics/Impulse.md"
+            "file": "physics/Friction.md"
           }
         }
       },
@@ -139,8 +139,8 @@
   },
   "active": "3813e7eab8fd75ee",
   "lastOpenFiles": [
-    "physics/Collision.md",
     "physics/Impulse.md",
+    "physics/Collision.md",
     "historical_literature/frankenstein/Bioethics.md",
     "Impulse.md",
     "notebooks/physics/Momentum.md",
