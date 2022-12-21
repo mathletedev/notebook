@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notebooks/physics/Momentum.md",
+                "file": "physics/Impulse.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "notebooks/physics/Momentum.md",
+            "file": "physics/Impulse.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "notebooks/physics/Momentum.md",
+            "file": "physics/Impulse.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "notebooks/physics/Momentum.md"
+            "file": "physics/Impulse.md"
           }
         }
       },
@@ -139,15 +139,15 @@
   },
   "active": "3813e7eab8fd75ee",
   "lastOpenFiles": [
+    "physics/Collision.md",
+    "physics/Impulse.md",
+    "historical_literature/frankenstein/Bioethics.md",
     "Impulse.md",
     "notebooks/physics/Momentum.md",
     "daily/2022-12-14.md",
     "notebooks/historical_literature/frankenstein/Bioethics.md",
     "daily/2022-12-13.md",
     "notebooks/physics/Kinematics.md",
-    "notebooks/physics/Power.md",
-    "notebooks/physics/Scalar.md",
-    "notebooks/physics/Spring.md",
-    "notebooks/physics/Friction.md"
+    "notebooks/physics/Power.md"
   ]
 }
