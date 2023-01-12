@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "physics/Friction.md",
+                "file": "historical_literature/social issues/Sources.md",
                 "mode": "preview",
                 "source": true
               }
@@ -44,8 +44,8 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
-            "matchingCase": false,
+            "query": "tag:#physics",
+            "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
             "extraContext": false,
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "physics/Friction.md",
+            "file": "historical_literature/social issues/Sources.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "physics/Friction.md",
+            "file": "historical_literature/social issues/Sources.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "physics/Friction.md"
+            "file": "historical_literature/social issues/Sources.md"
           }
         }
       },
@@ -139,15 +139,15 @@
   },
   "active": "3813e7eab8fd75ee",
   "lastOpenFiles": [
-    "physics/Impulse.md",
-    "physics/Collision.md",
-    "historical_literature/frankenstein/Bioethics.md",
-    "Impulse.md",
-    "notebooks/physics/Momentum.md",
-    "daily/2022-12-14.md",
-    "notebooks/historical_literature/frankenstein/Bioethics.md",
-    "daily/2022-12-13.md",
-    "notebooks/physics/Kinematics.md",
-    "notebooks/physics/Power.md"
+    "physics/Center of Mass.md",
+    "historical_literature/Untitled.md",
+    "physics/Angular Acceleration.md",
+    "physics/Angular Velocity.md",
+    "physics/Angular Position.md",
+    "physics/Acceleration.md",
+    "physics/Gravity & Weight.md",
+    "physics/Gravitational Potential Energy.md",
+    "physics/Laws of Motion.md",
+    "physics/Momentum.md"
   ]
 }

@@ -14,6 +14,13 @@ On both sides or around
 - ambivalent: having or showing simultaneous and contradictory attitudes or feelings toward something or someone
 - amphitheatre: a very large auditorium
 
+### ANTE
+Latin for before or in front of
+- antechamber: a small outer room that leads to another room and that is often used as a waiting room
+- antedate: a date assigned to an event or document earlier than the actual date of the event or document
+- ante meridiem: being before noon -> AM
+- anterior: situated before or toward the front
+
 ### BELL
 Latin word meaning "war"
 - antebellum: existing before a war
@@ -90,6 +97,12 @@ Comes from words that mean foot
 - pedestrian: a person going on foot
 
 ### POLY
+### PROT/PROTO
+Means first in time or first formed
+- protagonist: the principal character in a literary work
+- protocol: an original draft, minute, or record of a document or transaction
+- protoplasm: the organized colloidal complex of organic and inorganic substances (such as proteins and water) that constitutes the living nucleus, cytoplasm, plastids, and mitochondria of the cell
+- prototype:
 ### PRIM
 ### THERM/THERMO
 ### TRACT
