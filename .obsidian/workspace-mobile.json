@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "historical_literature/social issues/Source8s.md",
-                "mode": "preview",
+                "file": "physics/Uniform Circular Motion.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "historical_literature/social issues/Source8s.md",
+            "file": "physics/Uniform Circular Motion.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "historical_literature/social issues/Source8s.md",
+            "file": "physics/Uniform Circular Motion.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "historical_literature/social issues/Source8s.md"
+            "file": "physics/Uniform Circular Motion.md"
           }
         }
       },
@@ -139,15 +139,15 @@
   },
   "active": "3813e7eab8fd75ee",
   "lastOpenFiles": [
+    "physics/Centripetal Acceleration.md",
+    "physics/Uniform Circular Motion.md",
+    "historical_literature/Root Words.md",
+    "historical_literature/social issues/Sources.md",
     "physics/Center of Mass.md",
     "historical_literature/Untitled.md",
     "physics/Angular Acceleration.md",
     "physics/Angular Velocity.md",
     "physics/Angular Position.md",
-    "physics/Acceleration.md",
-    "physics/Gravity & Weight.md",
-    "physics/Gravitational Potential Energy.md",
-    "physics/Laws of Motion.md",
-    "physics/Momentum.md"
+    "physics/Acceleration.md"
   ]
 }
