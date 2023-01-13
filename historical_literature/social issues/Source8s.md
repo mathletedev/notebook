@@ -16,6 +16,7 @@ Page 16
 ### Deep Blue
 Page 22
 > Deep Blue's strength was sheer power: It was so fast it could evaluate 200 million positions or second and look fifteen to thirty moves ahead
+
 > Deep Blue won every game in the match. In an interview afterward, Kasparov admitted that he "sensed a new kind in intelligence" fighting against him.
 
 ### Artificial Neutral Networks
@@ -35,6 +36,17 @@ Page 32
 Page 48
 > Many AI theorists believe that human-level AGI (artificial general intelligence) will be humanity's final grand invention. This is because as soon as people create AGI that is as smart as a him human being, it will be able to improve itself.
 
+### Will AI Cause Chaos in Society?
+Page 49
+> If millions of workers lose their jobs because of rapidly advancing AI, society could be thrown into chaos. As economist Carlota Perez, who has studied the effect of new technologies on society, explains, "A society that has established countless routines and habits, norms and regulations, to fit the conditions of the previous revolution, does not find it easy to assimilate the new one."
+
+> Change can be both difficult and frightening, but people tend to adapt. And by looking at how technology has impacted society throughout history, it is clear that every technological revolution has created more wealth for the average person than it displaces. History has shown that automation caused a rise in literacy rates and standards of living. It also caused crime rates to fall and average life spans to lengthen.
+
 ### Is AGI Safe?
 Page 50
-> Goertzal is not the only person who believes that as soon as humans achieve AGI and give computers the ability to improve themselves, intelligence in artificial systems will increase at an exponential rate. But not everyone is optimistic about the outcome. Some of the world's
+> Goertzal is not the only person who believes that as soon as humans achieve AGI and give computers the ability to improve themselves, intelligence in artificial systems will increase at an exponential rate. But not everyone is optimistic about the outcome. Some of the world's to thinkers are extremely concerned about artificial superintelligence. Elon Musk has described it as "our biggest existential threat." Theoretical physicist Stephen Hawking warns, "The development of full artificial intelligence could spell the end of the human race."
+
+## Popular Science, Winter 2018
+Page 52
+
+
