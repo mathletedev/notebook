@@ -1,3 +1,5 @@
+#physics
+
 > Acceleration towards the center of a rotating body
 
 $$ a_c = \dfrac{v_t^2}{r} = r \omega ^2 $$

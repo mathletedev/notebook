@@ -1,3 +1,5 @@
+#physics 
+
 > When a rotating object has no angular acceleration
 
 Ex. a bicycle wheel spinning without friction

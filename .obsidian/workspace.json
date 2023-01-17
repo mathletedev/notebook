@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "historical_literature/frankenstein/Bioethics.md",
+                "file": "historical_literature/social issues/Sources.md",
                 "mode": "source",
                 "source": true
               }
@@ -157,17 +157,26 @@
     "direction": "horizontal",
     "width": 344
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
   "active": "73381f090e1a09ff",
   "lastOpenFiles": [
+    "historical_literature/social issues/Sources.md",
+    "physics/Impulse.md",
+    "physics/Uniform Circular Motion.md",
+    "physics/Centripetal Acceleration.md",
     "historical_literature/frankenstein/Bioethics.md",
     "physics/2-D Kinematics.md",
     "physics/Kinetic Energy.md",
     "notebooks/physics/Momentum.md",
     "notebooks/physics/Impulse.md",
-    "notebooks/historical_literature/Root Words.md",
-    "daily/2022-12-14.md",
-    "daily/2022-12-13.md",
-    "daily/2022-12-12.md",
-    "daily/2022-12-11.md"
+    "notebooks/historical_literature/Root Words.md"
   ]
 }

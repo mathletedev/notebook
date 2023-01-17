@@ -1,3 +1,5 @@
+#historical_literature #social_issue
+
 Subtopic, Notes and Quotes, Page Number
 
 ## Artificial Intelligence
