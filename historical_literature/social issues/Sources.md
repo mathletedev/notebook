@@ -4,7 +4,7 @@ Subtopic, Notes and Quotes, Page Number
 
 ## Artificial Intelligence
 1. Thomas, P.
-2. ;
+2. N/A
 3. 2005
 4. *Artificial Intelligence*
 5. Farmington Hills
@@ -27,7 +27,7 @@ Page 32
 
 ## Real-World STEM: Reverse Engineer the Brain
 1. Wilcox, C.
-2. ;
+2. N/A
 3. 2018
 4. *Real-World STEM: Reverse Engineer the Brain*
 5. San Diego
@@ -48,7 +48,18 @@ Page 49
 Page 50
 > Goertzal is not the only person who believes that as soon as humans achieve AGI and give computers the ability to improve themselves, intelligence in artificial systems will increase at an exponential rate. But not everyone is optimistic about the outcome. Some of the world's to thinkers are extremely concerned about artificial superintelligence. Elon Musk has described it as "our biggest existential threat." Theoretical physicist Stephen Hawking warns, "The development of full artificial intelligence could spell the end of the human race."
 
-## Popular Science, Winter 2018
-Page 52
+## The Future of Artificial Intelligence
+1. Glazer, S.
+2. 2022
+3. November
+4. 25
+5. The Future of Artificial Intelligence
+6. *CQ Researcher*
+7. N/A
+8. 15-16
 
+> Cognitive scientist Marcus says, "My guess is in 2200 we will have AI that's reliable, trustworthy, and doesn't make stupid mistakes. Right now, we have a lot of premature AI." He points to driverless cars that cannot yet operate safely and the inability of medical chatbots to give reliable advice. "We all kinds of problems with bias, toxicity, misinformation, unreliability," he adds. "The stuff we have now isn't ready for prime time."
 
+> While super-intelligent AI could be a force for good, such as curing cancer, Torres also painted a doomsday scenario where AIs hack government systems to start nuclear war. He wrote, "Research on artificial intelligence must slow down, it even pause. And if researchers won't make this decision, governments should make it for them."
+
+> But Marcus says this is not a good time to stop developing AI, precisely because of it's current flaws. For example, he says driverless cars could eventually save a lot of lives on the road once the technology is perfected. "You wouldn't want to put them out on the open road now, but if you simply ban them, you're missing a big opportunity."

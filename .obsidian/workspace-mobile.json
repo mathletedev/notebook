@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "physics/Uniform Circular Motion.md",
-                "mode": "source",
+                "file": "physics/Gravity & Weight.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#physics",
+            "query": "tag:#ap_european_history",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "physics/Uniform Circular Motion.md",
+            "file": "physics/Gravity & Weight.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "physics/Uniform Circular Motion.md",
+            "file": "physics/Gravity & Weight.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "physics/Uniform Circular Motion.md"
+            "file": "physics/Gravity & Weight.md"
           }
         }
       },
@@ -139,15 +139,15 @@
   },
   "active": "3813e7eab8fd75ee",
   "lastOpenFiles": [
-    "physics/Centripetal Acceleration.md",
-    "physics/Uniform Circular Motion.md",
-    "historical_literature/Root Words.md",
     "historical_literature/social issues/Sources.md",
+    "ap_european_history/enlightenment/Jean-Jacques Rousseau.md",
+    "ap_european_history/french_revolution/General Will.md",
+    "ap_european_history/french_revolution/Brunswick Manifesto.md",
+    "physics/Uniform Circular Motion.md",
+    "physics/Centripetal Acceleration.md",
+    "historical_literature/Root Words.md",
     "physics/Center of Mass.md",
     "historical_literature/Untitled.md",
-    "physics/Angular Acceleration.md",
-    "physics/Angular Velocity.md",
-    "physics/Angular Position.md",
-    "physics/Acceleration.md"
+    "physics/Angular Acceleration.md"
   ]
 }
