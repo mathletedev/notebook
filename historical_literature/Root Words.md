@@ -88,6 +88,13 @@ Comes from the Greek word meaning "same"
 ### HYPO/HYP
 ### JAC/JEC
 ### LEV
+### ORTH/ORTHO
+Means straight, right, or true
+- orthodontic: a branch of dentistry dealing with irregularities of the teeth (such as malocclusion) and their correction (as by braces)
+- orthodox: conforming to established doctrine especially in religion
+- orthopedic: marked by our affected with a skeletal deformity, disorder, or injury
+- orthography: a part of language study that deals with letters and spelling
+
 ### PAC/PEAS
 ### PED
 Comes from words that mean foot
@@ -104,6 +111,13 @@ Means first in time or first formed
 - protoplasm: the organized colloidal complex of organic and inorganic substances (such as proteins and water) that constitutes the living nucleus, cytoplasm, plastids, and mitochondria of the cell
 - prototype:
 ### PRIM
+### RECT
+Means straight or right
+- rectitude: the quality of states of being straight
+- rectify: to correct by removing errors
+- rectilinear: characterized by straight lines 
+- rector: one that directs
+
 ### THERM/THERMO
 ### TRACT
 ### VOR
