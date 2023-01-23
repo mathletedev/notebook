@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "historical_literature/Root Words.md",
-                "mode": "preview",
+                "file": "physics/Equilibrium.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "historical_literature/Root Words.md",
+            "file": "physics/Equilibrium.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "historical_literature/Root Words.md",
+            "file": "physics/Equilibrium.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "historical_literature/Root Words.md"
+            "file": "physics/Equilibrium.md"
           }
         }
       },
@@ -137,17 +137,17 @@
     ],
     "currentTab": 4
   },
-  "active": "f454f397921e4621",
+  "active": "3813e7eab8fd75ee",
   "lastOpenFiles": [
-    "physics/Centripetal Acceleration.md",
+    "physics/Torque.md",
+    "physics/Angular Velocity.md",
     "physics/Angular Acceleration.md",
+    "physics/Angular Position.md",
+    "physics/Centripetal Acceleration.md",
+    "historical_literature/Root Words.md",
     "physics/Gravity & Weight.md",
     "historical_literature/social issues/Sources.md",
     "ap_european_history/enlightenment/Jean-Jacques Rousseau.md",
-    "ap_european_history/french_revolution/General Will.md",
-    "ap_european_history/french_revolution/Brunswick Manifesto.md",
-    "physics/Uniform Circular Motion.md",
-    "historical_literature/Root Words.md",
-    "physics/Center of Mass.md"
+    "ap_european_history/french_revolution/General Will.md"
   ]
 }
