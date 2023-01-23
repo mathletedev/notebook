@@ -18,7 +18,7 @@
             }
           },
           {
-            "id": "d3ce7eddd193399c",
+            "id": "d3fd5f3e69d25a31",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269
+    "width": 200
   },
   "right": {
     "id": "9cb97a289a342cad",
@@ -96,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "historical_literature/social issues/Sources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "historical_literature/social issues/Sources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "historical_literature/social issues/Sources.md"
+              }
             }
           }
         ]
@@ -155,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344
+    "width": 410
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,7 +171,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73381f090e1a09ff",
+  "active": "d3fd5f3e69d25a31",
   "lastOpenFiles": [
     "historical_literature/social issues/Sources.md",
     "physics/Impulse.md",
