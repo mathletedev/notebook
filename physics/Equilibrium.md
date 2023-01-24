@@ -6,3 +6,9 @@
 
 ### Static Equilibrium
 When an object is totally at rest
+
+### Stable Equilibrium
+Small displacement doesn't tip an object
+
+### Unstable Equilibrium
+Small displacement tips an object
