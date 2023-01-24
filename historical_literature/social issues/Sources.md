@@ -111,3 +111,17 @@ Mention the use of coal & dissenters in Commercial Revolution
 > The question remains: How do we know when a machine has become self-aware? And ensure its proper use, responsibly and transparently.
 
 When will AI have a consciousness? What is consciousness?
+
+## AI is not all killer robots. It is far more dangerous
+
+```
+Martin, U. (2022, September 21). _Ai is not all killer robots. it is far more dangerous - professor_. University of Oxford. Retrieved January 24, 2023, from https://www.ox.ac.uk/news/features/ai-not-all-killer-robots-it-far-more-dangerous-professor-ursula-martin
+```
+
+> Victor Frankenstein played God, she says, and Mary Shelley’s manuscript still has the power to shock. In the exhibition, it is open at the page where 'by the glimmer of the half-extinguished light' Frankenstein sees for the first time 'the dull yellow eye' of the creature he has created in his laboratory.
+
+Reference to Frankenstein
+
+> So it is emphatically not all killer robots. Professor Martin adds, ‘AI is very useful. It’s all around us, for example your phone or your satnav or your bank are full of AI. It is changing our lives, and both as individuals and as society as a whole we need to think and act responsibly, just as we should with any other technology.
+
+Support for benefits of AI
