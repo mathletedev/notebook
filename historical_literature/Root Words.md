@@ -56,12 +56,26 @@ Comes from Latin, meaning "apart"
 - disseminate: to disperse throughout
 - dissipate: to break up and scatter or vanish
 
+### DYS
+Means bad or difficult
+- dysfunctional: not functioning properly 
+- dyslexia: a variable often familial learning disability involving difficulties in acquiring and processing language that is typically manifested by a lack of proficiency in reading, spelling, and writing
+- dyspeptic: indigestion / ill humour
+- dystrophy: any myogenic atrophy
+
 ### EP/EPI
 Upon, besides, attached to, over, outer, or after
 - ephemeral: lasting a very short time
 - epiphyte: a plant that derives its moisture and nutrients from the air and rain and grows usually on another plant
 - epitaph: an inscription on or at a tomb or a grave in memory of the one buried there
 - epithet: a characterizing word or phrase accompanying or occurring in the place of the name of a person or thing
+
+### EU
+Comes from the Greek word for well
+-  eugenic: relating to or fitted for the production of good offspring
+- euphemism: the substitution of an agreeable or inoffensive expression for one that may offend or suggest something unpleasant
+- euphoria: a feeling of well-being or elation
+- evangelism: the winning or revival of personal commitments to Christ
 
 ### FID
 Comes from *fides*, the Latin word for "faith"
