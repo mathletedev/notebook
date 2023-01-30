@@ -62,7 +62,7 @@ Page 50
 
 > While super-intelligent AI could be a force for good, such as curing cancer, Torres also painted a doomsday scenario where AIs hack government systems to start nuclear war. He wrote, "Research on artificial intelligence must slow down, it even pause. And if researchers won't make this decision, governments should make it for them."
 
-> But Marcus says this is not a good time to stop developing AI, precisely because of it's current flaws. For example, he says driverless cars could eventually save a lot of lives on the road once the technology is perfected. "You wouldn't want to put them out on the open road now, but if you simply ban them, you're missing a big opportunity."
+> But Marcus says this is not a good time to stop developing AI, precisely because of current flaws. For example, he says driverless cars could eventually save a lot of lives on the road once the technology is perfected. "You wouldn't want to put them out on the open road now, but if you simply ban them, you're missing a big opportunity."
 
 ## Artificial Intelligence 'A Double Edge Sword'
 
