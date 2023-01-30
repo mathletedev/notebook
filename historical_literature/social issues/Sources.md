@@ -46,7 +46,7 @@ Page 49
 
 ### Is AGI Safe?
 Page 50
-> Goertzal is not the only person who believes that as soon as humans achieve AGI and give computers the ability to improve themselves, intelligence in artificial systems will increase at an exponential rate. But not everyone is optimistic about the outcome. Some of the world's to thinkers are extremely concerned about artificial superintelligence. Elon Musk has described it as "our biggest existential threat." Theoretical physicist Stephen Hawking warns, "The development of full artificial intelligence could spell the end of the human race."
+> Goertzal is not the only person who believes that as soon as humans achieve AGI and give computers the ability to improve themselves, intelligence in artificial systems will increase at an exponential rate. But not everyone is optimistic about the outcome. Some of the world's thinkers are extremely concerned about artificial superintelligence. Elon Musk has described it as "our biggest existential threat." Theoretical physicist Stephen Hawking warns, "The development of full artificial intelligence could spell the end of the human race."
 
 ## The Future of Artificial Intelligence
 1. Glazer, S.
