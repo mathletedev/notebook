@@ -1,6 +1,8 @@
 #physics 
 
-> Work in a rotational setting
+See also: [[Work]]
+
+> Work used in rotation
 
 $$ W = \tau \theta $$
 

@@ -3,6 +3,9 @@
 > A property of an object based on its mass and [[velocity]]
 
 $$ p = mv $$
+
+Measured in *kg m^2 / s*
+
 Note that p (Latin *petere*) is used because the variable m is already used
 
 Momentum is related to [[force]]:
