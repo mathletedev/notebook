@@ -4,7 +4,7 @@
 
 $$ p = mv $$
 
-Measured in *kg m^2 / s*
+Measured in *kg m / s*
 
 Note that p (Latin *petere*) is used because the variable m is already used
 
