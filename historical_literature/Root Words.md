@@ -60,7 +60,7 @@ Comes from Latin, meaning "apart"
 Means bad or difficult
 - dysfunctional: not functioning properly 
 - dyslexia: a variable often familial learning disability involving difficulties in acquiring and processing language that is typically manifested by a lack of proficiency in reading, spelling, and writing
-- dyspeptic: indigestion / ill humour
+- dyspeptic: indigestion | ill humour
 - dystrophy: any myogenic atrophy
 
 ### EP/EPI
@@ -123,14 +123,28 @@ Means first in time or first formed
 - protagonist: the principal character in a literary work
 - protocol: an original draft, minute, or record of a document or transaction
 - protoplasm: the organized colloidal complex of organic and inorganic substances (such as proteins and water) that constitutes the living nucleus, cytoplasm, plastids, and mitochondria of the cell
-- prototype:
+- prototype: an original model on which something is patterned
 ### PRIM
+### QUIS
+Means to seek or obtain
+- inquisition: an investigation conducted with little regard for individual rights
+- perquisite: something held or claimed as an exclusive right or possession
+- acquisitive: strongly desirous of acquiring and possessing
+- requisition: the act of formally requiring our calling upon someone to perform an action
+
 ### RECT
 Means straight or right
 - rectitude: the quality of states of being straight
 - rectify: to correct by removing errors
 - rectilinear: characterized by straight lines 
 - rector: one that directs
+
+### ROG
+Means to ask
+- abrogate: to abolish by authoritative action | annul
+- arrogate: to claim or seize without justification
+- derogatory: expressive of a low opinion
+- prerogative: a distinctive excellence
 
 ### THERM/THERMO
 ### TRACT
