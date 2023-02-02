@@ -23,7 +23,7 @@ Page 22
 
 ### Artificial Neutral Networks
 Page 32
-> The branch of AI that modeled its work after the neural network if the human brain is called connectionism. It is based on the belief that the way the brain works is all about making the right connections, and those connections can just as easily be made using silicon and wire as living neurons and dendrites.
+> The branch of AI that modeled its work after the neural network of the human brain is called connectionism. It is based on the belief that the way the brain works is all about making the right connections, and those connections can just as easily be made using silicon and wire as living neurons and dendrites.
 
 ## Real-World STEM: Reverse Engineer the Brain
 1. Wilcox, C.
