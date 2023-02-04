@@ -1,0 +1,9 @@
+{
+  "serverUrl": "https://api.languagetool.org",
+  "urlMode": "standard",
+  "glassBg": false,
+  "shouldAutoCheck": false,
+  "pickyMode": false,
+  "staticLanguage": "auto",
+  "englishVeriety": "en-GB"
+}
