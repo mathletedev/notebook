@@ -102,6 +102,12 @@ Comes from the Greek word meaning "same"
 ### HYPO/HYP
 ### JAC/JEC
 ### LEV
+### PLE
+Means to measure
+- metric: a standard of measurement
+- odometer: an instrument for measuring distance travelled (as by a vehicle)
+- symmetrical: having, involving, or exhibiting symmetry
+
 ### ORTH/ORTHO
 Means straight, right, or true
 - orthodontic: a branch of dentistry dealing with irregularities of the teeth (such as malocclusion) and their correction (as by braces)
@@ -117,6 +123,13 @@ Comes from words that mean foot
 - impediment: something that impedes
 - pedestrian: a person going on foot
 
+### PLE
+Means to fill
+- complement: something that fills up, completes, or makes better or perfect
+- deplete: to empty of a principle substance
+- implement: carry out, accomplish
+- replete: fully or abundantly provided or filled
+
 ### POLY
 ### PROT/PROTO
 Means first in time or first formed
@@ -124,6 +137,7 @@ Means first in time or first formed
 - protocol: an original draft, minute, or record of a document or transaction
 - protoplasm: the organized colloidal complex of organic and inorganic substances (such as proteins and water) that constitutes the living nucleus, cytoplasm, plastids, and mitochondria of the cell
 - prototype: an original model on which something is patterned
+
 ### PRIM
 ### QUIS
 Means to seek or obtain
