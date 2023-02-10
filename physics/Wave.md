@@ -8,3 +8,7 @@
 - Trough - bottom of the wave
 - Period $T$ - length (in seconds) of one full cycle
 - Frequency $f$ number of full cycles per second
+
+## Formulas
+$$ f = 1 / T $$
+$$ v = \lambda f $$
