@@ -12,3 +12,9 @@
 ## Formulas
 $$ f = 1 / T $$
 $$ v = \lambda f $$
+
+### Mass-Spring Systems
+$$ T_s = 2 \pi \sqrt{\dfrac{m}{k}} $$
+
+### Pendulums
+$$ T_p = 2 \pi \sqrt{\dfrac{l}{g}} $$
