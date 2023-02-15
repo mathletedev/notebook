@@ -13,8 +13,16 @@
 $$ f = 1 / T $$
 $$ v = \lambda f $$
 
-### Mass-Spring Systems
+### Mass-spring systems
 $$ T_s = 2 \pi \sqrt{\dfrac{m}{k}} $$
 
 ### Pendulums
 $$ T_p = 2 \pi \sqrt{\dfrac{l}{g}} $$
+
+### Position over time
+$$ \Delta x = A cos(\omega t) $$
+$$ \Delta x = A cos (2 \pi ft) $$
+
+## Conversions
+Rotational frequency can be related to translational frequency:
+$$ \omega = 2 \pi f $$
