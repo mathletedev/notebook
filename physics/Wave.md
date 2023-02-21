@@ -26,3 +26,7 @@ $$ \Delta x = A cos (2 \pi ft) $$
 ## Conversions
 Rotational frequency can be related to translational frequency:
 $$ \omega = 2 \pi f $$
+
+## Types of waves
+**Transverse**: Side to side
+**Longitudinal**: Forward and back
