@@ -30,5 +30,5 @@ Rotational frequency can be related to translational frequency:
 $$ \omega = 2 \pi f $$
 
 ## Types of waves
-**Transverse**: Side to side
-**Longitudinal**: Forward and back
+**Transverse**: side to side
+**Longitudinal**: forward and back
