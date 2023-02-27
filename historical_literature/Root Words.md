@@ -45,7 +45,7 @@ Means to believe
 ### CUR/CURR
 Means to run
 - concurrent: operating or occurring at the same time
-- cursory: rapidly and often superficially performed or produced
+- cursory: rapidly and often superficially performed or produced | hastily
 - discursive: moving from topic to topic without order
 - precursor: one that precedes and indicates the approach of another
 
