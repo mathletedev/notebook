@@ -21,3 +21,12 @@ $$ = nf_1 $$
 $$ v = \sqrt{\dfrac{F_t}{\mu}} $$
 Ft: force of tension
 mu: linear mass density
+
+## Pipes
+
+### Open pipe
+$$ \lambda = \dfrac{2L}{n} $$
+Where L is the length of the pipe
+
+### Closed pipe
+$$ \lambda = \dfrac{4L}{n} $$
