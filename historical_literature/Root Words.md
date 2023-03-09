@@ -35,6 +35,13 @@ Comes from *carnis*, the Latin word for "flesh"
 - carnival: an instance of merrymaking, feasting, or masquerading
 - incarnation: a concrete or actual form of a quality or concept
 
+### CED/CESS
+Means to go or procede
+- accede: to express approval or give consent
+- antecedent: a preceding event, condition, or cause
+- concession: the admitting of a point claimed in argument
+- precedent: an earlier occurrence of something similar
+
 ### CRED
 Means to believe
 - credence: mental acceptance as true or real
@@ -69,6 +76,13 @@ Upon, besides, attached to, over, outer, or after
 - epiphyte: a plant that derives its moisture and nutrients from the air and rain and grows usually on another plant
 - epitaph: an inscription on or at a tomb or a grave in memory of the one buried there
 - epithet: a characterizing word or phrase accompanying or occurring in the place of the name of a person or thing
+
+### ERR
+Means to wander or stray
+- aberrant: deviating from the usual or natural type
+- errant: behaving wrongly
+- erratic: having no fixed course | wandering
+- erroneous: containing or characterised by error
 
 ### EU
 Comes from the Greek word for well
@@ -160,6 +174,20 @@ Means to ask
 - derogatory: expressive of a low opinion
 - prerogative: a distinctive excellence
 
+### SPIC/SPEC
+Means to look or behold
+- auspicious: showing or suggesting that future success is likely
+- conspicuous: obvious to the eye or mind
+- introspection: a reflective looking inward
+- perspicacious: of acute mental vision or discernment | keen
+
 ### THERM/THERMO
 ### TRACT
+### VID/VIS
+Has to do with seeing and sight
+- visage: the face, countenance, or appearance of a person or sometimes an animal
+- vis-à-vis: in relation to
+- visionary: having or marked by foresight and imagination
+- visitation: an instance of visiting
+
 ### VOR
