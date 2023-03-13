@@ -2,17 +2,17 @@
 
 > A [[wave]] that provides visibility
 
-**Speed of light**: $3.0E^8m/s$
+**Speed of light**: $3.0 \times 10^8m/s$
 
 Light is both a wave and a particle
 
-## Electromagnetic Spectrum
+## Electromagnetic spectrum
 Human eyes can only detect a small portion
 
-## Planck's Constant
-$$ h = 6.63E^{-34}Js $$
+## Planck's constant
+$$ h = 6.63 \times 10^{-34}Js $$
 
 ## Energy
 $$ E = hf $$
-h: Planck's Constant
+h: Planck's constant
 f: frequency of wave
