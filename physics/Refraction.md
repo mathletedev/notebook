@@ -1,6 +1,6 @@
 #physics 
 
-> How light bends as it passes through different mediums
+> How [[light]] bends as it passes through different mediums
 
 ## Index of refraction
 - How we compare the speed of light in different media

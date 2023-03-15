@@ -1,6 +1,6 @@
 #physics 
 
-> How light bounces off objects
+> How [[light]] bounces off objects
 
 *Angle of incidence = angle of reflection*
 
@@ -13,3 +13,7 @@ Irregularities are less than 100nm, which is smaller than the wavelengths of vis
 **Virtual image**: where the object is perceived to be
 
 Draw lines where angle of incidence = angle of reflection into the eyes
+
+## Total internal reflection
+When light passes from an optically dense medium to a lesser one, and the angle ($\theta_c$) is great enough, the light undergoes total internal reflection and doesn't pass into the second medium
+$$ \sin \theta_c = \dfrac{n_2}{n_1} $$
