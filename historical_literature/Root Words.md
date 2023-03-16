@@ -116,7 +116,7 @@ Comes from the Greek word meaning "same"
 ### HYPO/HYP
 ### JAC/JEC
 ### LEV
-### PLE
+### MET
 Means to measure
 - metric: a standard of measurement
 - odometer: an instrument for measuring distance travelled (as by a vehicle)
@@ -143,6 +143,13 @@ Means to fill
 - deplete: to empty of a principle substance
 - implement: carry out, accomplish
 - replete: fully or abundantly provided or filled
+
+### PHON
+Means sound, voice, or speech
+- cacophony: an incongruous or chaotic mixture | dissonance
+- phonetic: representing the sounds and other phenomena of speech
+- polyphonic: a style of musical composition employing two or more simultaneous but relatively independent melodic lines
+- symphony: consonance of sounds
 
 ### POLY
 ### PROT/PROTO
@@ -189,5 +196,12 @@ Has to do with seeing and sight
 - vis-à-vis: in relation to
 - visionary: having or marked by foresight and imagination
 - visitation: an instance of visiting
+
+### VOC/VOK
+Has to do with speaking and calling and use of the voice
+- equivocate: to avoid committing oneself in what one says
+- irrevocable: not possible to revoke | unalterable
+- provoke: to stir up purposefully
+- vociferous: marked by or given to vehement insistent outcry
 
 ### VOR
