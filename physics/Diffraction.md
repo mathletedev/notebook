@@ -15,5 +15,7 @@ $d$: slit width (single slit) or distance between slits (double slit)
 $\theta$: angle between axis and point
 $m$: order number
 
+Integer order numbers are where waves constructively interfere
+
 $$ y = \frac{mL \lambda}{d} $$
 $y$: distance between fringes (white lines / black lines)
