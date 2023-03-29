@@ -4,7 +4,7 @@
 
 ## Index of refraction
 - How we compare the speed of light in different media
-- Light's frequency when passing into different media is unaltered; wavelength and does change
+- Light's frequency when passing into different media is unaltered; wavelength changes
 $$ n = \dfrac{c}{v} = \dfrac{\lambda}{\lambda_m} $$
 
 ## Snell's Law
