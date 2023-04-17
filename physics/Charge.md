@@ -18,7 +18,7 @@ Charge is in *Coulombs*
 Neutral objects have a mix of charges. However, similar charges move towards the opposite end of the object, and opposite charges move towards the front of the object. That's why neutral objects attract all charges.
 
 ## Charging methods
-- Friction: rubbing two materials together
+- [[Friction]]: rubbing two materials together
 - Conduction: flow of electrons when two things make contact
 
 ## Conductivity
