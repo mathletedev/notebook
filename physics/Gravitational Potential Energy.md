@@ -1,5 +1,7 @@
 #physics
 
+See also: [[Electric Potential Energy]]
+
 > The energy an object has due to its position relative to a gravitational body
 
 $$ E_p = mgh $$
