@@ -4,7 +4,8 @@ See also: [[Coulomb's Law]], [[Electric Potential Energy]]
 
 > The influence a [[charge]]d object has on other charges
 
-$$ E = \frac{kq}{r^2} $$
+$$ E = \frac{kq}{r^2} = \frac{F_E}{q} = \frac{V}{r} $$
+$E$: electric field magnitude in *N/C*
 
 *Electric field lines are always perpendicular to equipotential lines*
 
