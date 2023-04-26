@@ -12,3 +12,8 @@
 
 ## Symbol
 Negative ──〢〢── Positive
+
+## Battery ratings
+Measured in amperes hours (A\*h); how long a battery lasts
+$$ A * h = I * t $$
+$I$: [[current]]
