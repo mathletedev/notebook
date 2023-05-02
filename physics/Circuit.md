@@ -9,3 +9,8 @@ Voltage = the larger of the two batteries
 ## Series
 Batteries in series increase voltage
 Voltage = the sum of the two batteries
+
+## Testing
+Voltage: leads in parallel
+[[Current]]: leads in series
+[[Resistance]]: detach component, close circuit with leads

@@ -37,3 +37,24 @@ And more!
 
 However, unpopular with the Senate because he ruled without regard to the Senate
 Often told them which laws he wanted passed and how quickly
+
+## Exigence of the play
+Queen Elizabeth didn't have an heir, similar to Caesar
+Both had tremendous political power
+It was treason to imagine the death of a current ruler, so Shakespeare criticised current rulers my altering the deaths of past rulers
+Tragedy writing style, title characters always die
+[[Rhetoric]] was only available to the upper class, so only the well-educated could utilise rhetoric to convince people
+
+### Brutus
+Backstabbed Caesar
+Ancestors overthrew tyrannical kings, wouldn't allow Caesar to rule
+
+### Mark Antony
+Marcus Antonius
+Very good general, became co-Consul after Caesar's death
+
+### Cleopatra
+Last pharaoh of ancient Egypt
+Caesar's wife?
+Caesar provided Cleopatra with reinforcements to defeat her husband-brother for power over Egypt
+Also had twins with Antony, Antony died in battle, Cleopatra committed suicide
