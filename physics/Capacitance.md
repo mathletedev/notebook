@@ -4,8 +4,11 @@
 
 Capacitance is measured in *Farads* (F)
 
-$$ C = \kappa \epsilon_0 \frac{A}{d} $$
-$\epsilon_0$ = $8.85 \times 10^{12}$
+$$ C = \frac{Q}{\Delta V} = \epsilon \frac{A}{d} $$
+Where $\epsilon = \epsilon_0 \epsilon_r$
+$\epsilon_0$: electric constant = $8.85 \times 10^{-12} C^2/Nm^2$
+$\epsilon_r$: relative permittivity / dielectric constant)
+$d$: separation between plates (in metres)
 
 $$ U_c = \frac{1}{2} QV $$
 

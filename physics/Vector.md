@@ -1,4 +1,4 @@
-#physics #precalculus
+#physics
 
 > A quantity that has *both* magnitude and direction
 
