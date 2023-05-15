@@ -2,6 +2,8 @@
 
 > The rate of charges moving past a point over some time
 
+**Current remains the same in series, but splits (possibly unevenly) in parallel**
+
 Current is represented in *amperes* (A) - coulombs per second
 
 $$ I = \frac{\Delta q}{\Delta t} $$
