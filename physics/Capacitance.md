@@ -10,7 +10,7 @@ $\epsilon_0$: electric constant = $8.85 \times 10^{-12} C^2/Nm^2$
 $\epsilon_r$: relative permittivity / dielectric constant)
 $d$: separation between plates (in metres)
 
-$$ U_c = \frac{1}{2} QV $$
+$$ U_c = \frac{1}{2} QV = \frac{1}{2} CV^2 $$
 
 ## Capacitors
 
