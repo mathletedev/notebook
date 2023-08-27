@@ -3,10 +3,7 @@
   "vimMode": true,
   "spellcheck": true,
   "showInlineTitle": true,
-  "spellcheckLanguages": [
-    "en-US",
-    "en-GB"
-  ],
+  "spellcheckLanguages": null,
   "livePreview": false,
   "promptDelete": false,
   "alwaysUpdateLinks": true
