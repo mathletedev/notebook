@@ -1,0 +1,17 @@
+#cpt_s_121
+
+> A sequence of instructions that solve a problem
+
+- A well ordered collection...
+- Of unambiguous and effectively computable operations...
+- That produces a result...
+- And halts in a finite amount of time.
+
+## Types of instructions
+
+- Sequenced instructions
+	- do them in the order given
+- Conditional instructions
+	- do them if a condition is true
+- Iterative instructions
+	- do them while a condition is true

@@ -43,7 +43,7 @@ Queen Elizabeth didn't have an heir, similar to Caesar
 Both had tremendous political power
 It was treason to imagine the death of a current ruler, so Shakespeare criticised current rulers my altering the deaths of past rulers
 Tragedy writing style, title characters always die
-[[Rhetoric]] was only available to the upper class, so only the well-educated could utilise rhetoric to convince people
+[[historical literature/Rhetoric]] was only available to the upper class, so only the well-educated could utilise rhetoric to convince people
 
 ### Brutus
 Backstabbed Caesar
