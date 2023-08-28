@@ -46,7 +46,7 @@ int main(void) {
 	// 6: compute the average
 	average = sum_scores / 3;
 
-	// 9: display the average
+	// 7: display the average
 	printf("Average: %d", average);
 
 	return 0;
