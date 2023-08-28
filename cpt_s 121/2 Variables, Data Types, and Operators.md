@@ -23,33 +23,33 @@ Memory are like storage boxes that allow you to "remember" information for later
 #include <stdio.h> // printf(), scanf()
 
 int main(void) {
-  int exam1 = 0, exam2 = 0, exam3 = 0, sum_scores = 0, average = 0;
+	int exam1 = 0, exam2 = 0, exam3 = 0, sum_scores = 0, average = 0;
 
-  // 1: prompt user for exam 1 score
-  printf("Enter score 1: ");
+	// 1: prompt user for exam 1 score
+	printf("Enter score 1: ");
 
-  // 2: get score from user
-  scanf("%d", &exam1);
+	// 2: get score from user
+	scanf("%d", &exam1);
 
-  // 3: prompt for exam 2
-  printf("Enter score 2: ");
+	// 3: prompt for exam 2
+	printf("Enter score 2: ");
 
-  // 4: get score
-  scanf("%d", &exam2);
+	// 4: get score
+	scanf("%d", &exam2);
 
-  printf("Enter score 3: ");
-  scanf("%d", &exam3);
+	printf("Enter score 3: ");
+	scanf("%d", &exam3);
 
-  // 5: sum the scores
-  sum_scores = exam1 + exam2 + exam3;
+	// 5: sum the scores
+	sum_scores = exam1 + exam2 + exam3;
 
-  // 6: compute the average
-  average = sum_scores / 3;
+	// 6: compute the average
+	average = sum_scores / 3;
 
-  // 9: display the average
-  printf("Average: %d", average);
+	// 9: display the average
+	printf("Average: %d", average);
 
-  return 0;
+	return 0;
 }
 ```
 
