@@ -18,6 +18,7 @@ Rhetoric is **not** arbitrary
 - Pathos: appeal to *emotion*
 - Logos: appeal to *logic*
 - Kairos: appeal to *time*
+- [[Memoria]]: appeal to *memory*
 
 -> Commonly used in political debates
 
