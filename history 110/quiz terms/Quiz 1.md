@@ -20,7 +20,7 @@ Powerful horses with armored warriors terrified natives. Germs such as smallpox 
 
 > When the Spanish invaded Mexico in 1519, they found a vast Mexica Empire connected by a network of roads serving 371 city-states organised into 38 provinces. Towering stone temples, paved avenues, thriving marketplaces, and some 70,000 *adobe* (sunbaked mud) huts dominated Tenochtitlan
 
-## Burial mounds
+## Burial Mounds
 
 > The Adena-Hopewell cultures grew corn, squash, beans, and sunflowers, as well as tobacco for smoking. They left behind enormous earthworks and elaborate **burial mounds** shaped like snakes, birds, and other animals.
 
@@ -28,7 +28,7 @@ Powerful horses with armored warriors terrified natives. Germs such as smallpox 
 
 > \[The Mississippians'] ability to grow large amounts of corn in the fertile flood plains spurred rapid population grown around regional centres. The largest of these advanced regional centres, called *chiefdoms*, was **Cahokia** (600-1300 C.E.), in southwest Illinois, near the confluence of the Mississippi and Missouri Rivers (across from what is now St. Louis).
 
-## Eastern woodland peoples
+## Eastern Woodland Peoples
 
 > After the collapse of Cahokia, the **Eastern Woodland peoples** spread along the Atlantic Seaboard from Maine to Florida and along the Gulf Coast to Louisiana. They included three groups distinguished by their different languages: the Algonquian, the Iroquoian, and the Muskogean. These were the indigenous societies that Europeans would first encounter when they arrived in North America.
 
@@ -56,7 +56,7 @@ Powerful horses with armored warriors terrified natives. Germs such as smallpox 
 
 > The European ships that crossed the Atlantic carried more than human cargo. They also brought plants and animals that set in motion what came to be called the **Columbian Exchange**, a worldwide transfer of plants, animals, and diseases, which ultimately worked in favour of the Europeans at the expense of the indigenous peoples.
 
-## Infectious diseases
+## Infectious Diseases
 
 > The most significant aspect of the Columbian Exchange was the transmission of **infectious diseases**. Europeans and enslaved Native Americans brought to the Western Hemisphere deadly diseases that Native Americans had never encountered: smallpox, typhus, malaria, mumps, chickenpox, and measles. The results were catastrophic. By 1568, just seventy-five years after Columbus's first voyage, infectious diseases had killed 80 to 90 per-cent of the Indian population in the Western Hemisphere - the most significant loss of life in history.
 
