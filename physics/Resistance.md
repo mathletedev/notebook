@@ -1,6 +1,6 @@
 #physics 
 
-See also: [[Ohm's Law]]
+See also: [[Voltage]]
 
 > An opposition to the flow of [[current]]
 
