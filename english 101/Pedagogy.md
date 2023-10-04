@@ -31,7 +31,3 @@ With a problem-posing model, new members can affect change in the genre of the c
 > A road map signaling not only what we're interested in talking about, but why it's important.
 
 - Does not need to be a single sentence
-
-### Practice thesis statement
-
-The PHS tennis team is a discourse community that derives from the problem-posing model, 
