@@ -32,7 +32,7 @@ Gaspee Incident: British warship chasing smugglers ran aground, crew stole lives
 
 ## Boston Massacre
 
-> On the evening of March 5, 1770, two dozen "saucy" Boston rowdies - teens, Irishmen, and sailors - began throwing icicles and oyster shells at Hugh White, a young soldier guarding the Customs House. Someone rang the town fire bell, drawing a larger crowd to the scene, as the taunting continued: "Kill him, kill him, knock him down. Fire, d*** you, fire, you dare not fire!"
+> On the evening of March 5, 1770, two dozen "saucy" Boston rowdies - teens, Irishmen, and sailors - began throwing icicles and oyster shells at Hugh White, a young soldier guarding the Customs House. Someone rang the town fire bell, drawing a larger crowd to the scene, as the taunting continued: "Kill him, kill him, knock him down. Fire, d\*\*\* you, fire, you dare not fire!"
 > A squad of soldiers arrived to help White, but the surly crowd surrounded them. When someone knocked a soldier down, he arose and fired his musket. Others joined in. After the smoke had cleared, five men lay dead or dying on the cobblestone street, and eight more were wounded. The first one killed was Crispus Attucks, a formerly enslaved man who worked at the docks. The *Boston Gazette* called it a "horrid massacre." More than 10,000 people attended the funerals of the murdered colonists.
 
 ## Loyalists

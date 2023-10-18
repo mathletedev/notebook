@@ -91,6 +91,6 @@ Americans convincingly defeated the British.
 Federalists wanted to reduce Republicans' power by proposing seven constitutional amendments.
 However, failed because of the Victory at New Orleans.
 
-> Ignored by Congress and the president, the Federalist delegates turned tail for home. The sorry episode proved fatal to the Federalist party, which never recovered from the shame of disloyalty stamped on it by the Hartford Convention. The victory at New Orleans and the arrival of the peace treat from Europe transformed the national mood. Almost overnight, President Madison went from being denounced and possibly impeached to being hailed a national hero.
+> Ignored by Congress and the president, the Federalist delegates turned tail for home. The sorry episode proved fatal to the Federalist party, which never recovered from the shame of disloyalty stamped on it by the Hartford Convention. The victory at New Orleans and the arrival of the peace treaty from Europe transformed the national mood. Almost overnight, President Madison went from being denounced and possibly impeached to being hailed a national hero.
 
 Marked the end of the Federalist party.
