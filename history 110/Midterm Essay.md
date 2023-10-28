@@ -12,7 +12,7 @@ tags:
 - [ ] Dual army
 ---
 - [x] Successes/failures
-- [ ] Significance
+- [x] Significance
 
 ## Battle of Yorktown, 1781
 
