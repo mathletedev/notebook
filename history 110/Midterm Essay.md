@@ -16,14 +16,14 @@ tags:
 
 ## Battle of Yorktown, 1781
 
-- [ ] Planning
-- [ ] Tactics
-- [ ] Commanders
-- [ ] Troop composition
-- [ ] Dual army
+- [x] Planning
+- [x] Tactics
+- [x] Commanders
+- [x] Troop composition
+- [x] Dual army
 ---
-- [ ] Successes/failures
-- [ ] Significance
+- [x] Successes/failures
+- [x] Significance
 
 ## Battle of New Orleans, 1815
 
@@ -31,7 +31,7 @@ tags:
 - [x] Tactics
 - [x] Commanders
 - [x] Troop composition
-- [ ] Dual army
+- [x] Dual army
 ---
 - [x] Successes/failures
 - [x] Significance
