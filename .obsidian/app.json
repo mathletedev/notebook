@@ -4,7 +4,7 @@
   "spellcheck": true,
   "showInlineTitle": true,
   "spellcheckLanguages": null,
-  "livePreview": true,
+  "livePreview": false,
   "promptDelete": false,
   "alwaysUpdateLinks": true
 }
