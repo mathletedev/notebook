@@ -7,13 +7,13 @@ tags:
 struct DSU {
   std::vector<int> e;
 
-  DSU(int n) { e.assign(n, -1); }
+  DSU(int N) { e.assign(N, -1); }
 
-  int comp(int x) { return e[x] < 0 ? x : e[x] = comp(e[x]); }
-  bool same_set(int x, int y) { return comp(x) == comp(y); }
-  int size(int x) { return -e[comp(x)]; }
+  int find(int x) { return e[x] < 0 ? x : e[x] = find(e[x]); }
+  bool same_set(int x, int y) { return find(x) == find(y); }
+  int size(int x) { return -e[find(x)]; }
   bool unite(int x, int y) {
-    x = comp(x), y = comp(y);
+    x = find(x), y = find(y);
     if (x == y)
       return 0;
     if (e[x] > e[y])
