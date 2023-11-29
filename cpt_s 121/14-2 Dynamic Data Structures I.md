@@ -23,7 +23,7 @@ Dynamic memory is stored in the **heap**.
 
 **Memory leak**: When memory is allocated but forgotten before it is freed
 
-## Linked Lists
+## Linked lists
 
 ```c
 typedef struct node {
