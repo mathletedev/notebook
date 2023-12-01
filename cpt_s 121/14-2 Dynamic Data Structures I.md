@@ -4,6 +4,8 @@ tags:
   - pointers
 ---
 
+-> [Lecture code](https://github.com/mathletedev/cpt_s/blob/main/121/lectures/2023-12-01)
+
 > Uses pointers and dynamically allocated memory.
 
 ## `malloc()`
@@ -28,6 +30,6 @@ Dynamic memory is stored in the **heap**.
 ```c
 typedef struct node {
 	int data;
-	struct node *link; // self-referential struct, not recursion
+	struct node *next; // self-referential struct, not recursion
 } Node;
 ```
