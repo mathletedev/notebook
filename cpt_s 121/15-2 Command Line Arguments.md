@@ -3,6 +3,8 @@ tags:
   - cpt_s_121
 ---
 
+-> [Lecture code](https://github.com/mathletedev/cpt_s/blob/main/121/lectures/2023-12-08)
+
 ```c
 #include <stdio.h>
 
