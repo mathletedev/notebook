@@ -7,31 +7,31 @@ tags:
 
 > A showdown between the rival anti-slavery camps erupted in 1840 over the issue of women’s rights, with the scandalous activities of the Grimké sisters serving as the catalyst. Sarah and Angelina Grimké, born to a wealthy South Carolina family, grew up being served by enslaved people. In 1821, shortly after her father’s death, Sarah moved from Charleston to Philadelphia, joined the Society of Friends (Quakers), and renounced slavery. Angelina soon followed her, and in 1835, the sisters joined the abolitionist movement. After they appealed to southern Christian women to end slavery, the mayor of Charleston told their mother that they would be jailed if they returned home.
 
-> The Grimké sisters traveled widely, speaking first to audiences of women and eventually to groups of both sexes. Their unconventional (promiscuous) behaviour in speaking to mixed-gender audiences prompted sharp criticism from ministers in the anti-slavery movement. Catharine Beecher reminded the sisters that women occupied “a subordinate relation in society to the other sex” and that they should limit their activities to the “domestic and social circle.
+> The Grimké sisters travelled widely, speaking first to audiences of women and eventually to groups of both sexes. Their unconventional (promiscuous) behaviour in speaking to mixed-gender audiences prompted sharp criticism from ministers in the anti-slavery movement. Catharine Beecher reminded the sisters that women occupied “a subordinate relation in society to the other sex” and that they should limit their activities to the “domestic and social circle.
 
 ## William Lloyd Garrison
 
-> But it was slavery that most excited his indignation. In 1831, free Blacks helped convince Garrison to launch an anti-slavery newspaper, The Liberator, which became the voice of the nation’s first civil rights movement. Of the first 500 subscribers, 450 were free Blacks, leading Garrison to explain that The Liberator did not belong to Whites but to people of color: “It is their organ.”
+> But it was slavery that most excited his indignation. In 1831, free Blacks helped convince Garrison to launch an anti-slavery newspaper, The Liberator, which became the voice of the nation’s first civil rights movement. Of the first 500 subscribers, 450 were free Blacks, leading Garrison to explain that The Liberator did not belong to Whites but to people of colour: “It is their organ.”
 
 ## Elizabeth Cady Stanton
 
 > But Susan B. Anthony and Elizabeth Cady Stanton, the leaders of the movement to secure voting rights for women, insisted that the amendment should have included women. As Anthony stressed, the U.S. Constitution refers to “We, the people; not we, the white male citizens; nor yet we, the male citizens; but we, the whole people, who formed the Union—women as well as men.”
 
-> Susan B. Anthony and Elizabeth Cady Stanton had founded the National Woman Suffrage Association (NWSA) in 1869 to promote a wom en’s suffrage amendment to the Constitution. They condemned both the Fourteenth and Fifteenth Amendments for limiting voting rights to males only. The NWSA agitated for more than the right to vote. Its members also campaigned for higher pay for working women and for laws helping abused wives secure divorces.
+> Susan B. Anthony and Elizabeth Cady Stanton had founded the National Woman Suffrage Association (NWSA) in 1869 to promote a women’s suffrage amendment to the Constitution. They condemned both the Fourteenth and Fifteenth Amendments for limiting voting rights to males only. The NWSA agitated for more than the right to vote. Its members also campaigned for higher pay for working women and for laws helping abused wives secure divorces.
 
 ## Underground Railroad
 
-> Between 1810 and 1850, tens of thousands of enslaved people in the South fled north. Freedom seekers would make their way, usually at night, from one “station,” or safe house, to the next. The organizations and the systems of safe houses and shelters in the border states such as Maryland and Kentucky (and farther north) were referred to as the **Underground Railroad**. The “conductors” helping the freedom seekers included freeborn Blacks, White abolitionists, formerly enslaved people, and Native Americans. Unitarians, Quakers, Presbyterians, Methodists, and Baptists also participated.
+> Between 1810 and 1850, tens of thousands of enslaved people in the South fled north. Freedom seekers would make their way, usually at night, from one “station,” or safe house, to the next. The organisations and the systems of safe houses and shelters in the border states such as Maryland and Kentucky (and farther north) were referred to as the **Underground Railroad**. The “conductors” helping the freedom seekers included freeborn Blacks, White abolitionists, formerly enslaved people, and Native Americans. Unitarians, Quakers, Presbyterians, Methodists, and Baptists also participated.
 
 ## Abolitionism
 
-> This harsh reality led to a change in tactics among anti-slavery organisations, many of which were energized by evangelical religions and the emerging social activism of transcendentalism. Their initial efforts to promote a gradual end to slavery by prohibiting it in the western territories and using moral persuasion to convince owners to free their enslaved people steadily gave way to demands for immediate **abolitionism** everywhere.
+> This harsh reality led to a change in tactics among anti-slavery organisations, many of which were energised by evangelical religions and the emerging social activism of transcendentalism. Their initial efforts to promote a gradual end to slavery by prohibiting it in the western territories and using moral persuasion to convince owners to free their enslaved people steadily gave way to demands for immediate **abolitionism** everywhere.
 
 ## American Colonization Society
 
-> The first organized emancipation movement appeared in 1816 with the formation of the **American Colonization Society** (ACS) in Washington, D.C., whose mission was to raise funds to transport free Blacks back to Africa. Its supporters included James Madison, James Monroe, Andrew Jackson, Henry Clay, John Marshall, and Daniel Webster.
+> The first organised emancipation movement appeared in 1816 with the formation of the **American Colonization Society** (ACS) in Washington, D.C., whose mission was to raise funds to transport free Blacks back to Africa. Its supporters included James Madison, James Monroe, Andrew Jackson, Henry Clay, John Marshall, and Daniel Webster.
 
-> Some supported the colonization movement because they opposed slavery; others saw it as a way to get rid of free Blacks. “We must save the Negro,” one missionary explained, “or the Negro will ruin us.” White supremacy remained a powerful assumption, even among abolitionists.
+> Some supported the colonisation movement because they opposed slavery; others saw it as a way to get rid of free Blacks. “We must save the Negro,” one missionary explained, “or the Negro will ruin us.” White supremacy remained a powerful assumption, even among abolitionists.
 
 ## Utopian Communities
 
@@ -45,17 +45,17 @@ tags:
 
 ## Cult of Domesticity
 
-> In 1842, Catharine Beecher published A Treatise on Domestic Economy, which promoted the **cult of domesticity**, a powerful ideology that called upon women to accept and celebrate their role as manager of the household and nurturer of the children, separate from the man’s sphere of work outside the home. Beecher argued that young women should be trained not for careers outside the home but for a life centered in the household. As a result, the prospects for women remained relatively unchanged. They were barred from the ministry and most other professions. They could not vote or serve on juries. College was rarely an option. A wife often had no control over her property or her children. She could not make a will, sign a contract, or bring suit in court without her husband’s permission.
+> In 1842, Catharine Beecher published A Treatise on Domestic Economy, which promoted the **cult of domesticity**, a powerful ideology that called upon women to accept and celebrate their role as manager of the household and nurturer of the children, separate from the man’s sphere of work outside the home. Beecher argued that young women should be trained not for careers outside the home but for a life centred in the household. As a result, the prospects for women remained relatively unchanged. They were barred from the ministry and most other professions. They could not vote or serve on juries. College was rarely an option. A wife often had no control over her property or her children. She could not make a will, sign a contract, or bring suit in court without her husband’s permission.
 
 ## Temperance
 
-> The **temperance** crusade was among the most widespread of the reform movements. Many people argued that the worst social problems were rooted in alcohol abuse. William Cobbett, an English reformer who traveled in the United States, noted in 1819 that virtually every time he visited an American home his hosts asked him “to drink wine or spirits, even in the morning."
+> The **temperance** crusade was among the most widespread of the reform movements. Many people argued that the worst social problems were rooted in alcohol abuse. William Cobbett, an English reformer who travelled in the United States, noted in 1819 that virtually every time he visited an American home his hosts asked him “to drink wine or spirits, even in the morning."
 
-> In 1826, a group of ministers in Boston organised the American Society for the Promotion of Temperance, which sponsored lectures, press campaigns, and the formation of local and state societies. A favorite tactic was to ask everyone who pledged to quit drinking to put by their signature a letter T for “total abstinence.” With that, a new word entered the English language: *teetotaler*.
+> In 1826, a group of ministers in Boston organised the American Society for the Promotion of Temperance, which sponsored lectures, press campaigns, and the formation of local and state societies. A favourite tactic was to ask everyone who pledged to quit drinking to put by their signature a letter T for “total abstinence.” With that, a new word entered the English language: *teetotaler*.
 
 ## Transcendentalism
 
-> The most intense American advocates of Romantic ideals were the transcendentalists of New England. Transcendentalism promoted a radical individualism and personal spirituality separate from organized religion. The word **transcendentalism** came from an emphasis on thoughts and behaviors that transcend (or rise above) the limits of reason and logic. To transcendentalists, the inner life of the spirit took priority over the hard facts of science and the rigidities of organized religion. Transcendentalism, said one of its champions, meant an interest in areas “a little beyond” the scope of reason.
+> The most intense American advocates of Romantic ideals were the transcendentalists of New England. Transcendentalism promoted a radical individualism and personal spirituality separate from organised religion. The word **transcendentalism** came from an emphasis on thoughts and behaviours that transcend (or rise above) the limits of reason and logic. To transcendentalists, the inner life of the spirit took priority over the hard facts of science and the rigidities of organised religion. Transcendentalism, said one of its champions, meant an interest in areas “a little beyond” the scope of reason.
 
 ## Mormon Church
 

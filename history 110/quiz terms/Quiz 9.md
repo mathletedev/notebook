@@ -21,7 +21,7 @@ tags:
 
 ## Internal Improvements
 
-> The third major element of economic nationalism in the first half of the nineteenth century involved federal financing of **internal improvements**, specifically the construction of roads, bridges, canals, and harbors. Most American rivers flowed from north to south, so the nation needed a network of roads running east to west.
+> The third major element of economic nationalism in the first half of the nineteenth century involved federal financing of **internal improvements**, specifically the construction of roads, bridges, canals, and harbours. Most American rivers flowed from north to south, so the nation needed a network of roads running east to west.
 
 ## Dartmouth College v. Woodward, 1819
 

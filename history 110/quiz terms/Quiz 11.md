@@ -15,7 +15,7 @@ tags:
 
 ## Cotton Kingdom
 
-> By 1860, the center of the “**cotton kingdom**” stretched from eastern North Carolina, South Carolina, and Georgia through the Alabama-Mississippi “black belt” (so called for the colour of the fertile soil), through Louisiana, on to Texas, and up the Mississippi River Valley as far as southern Illinois.
+> By 1860, the centre of the “**cotton kingdom**” stretched from eastern North Carolina, South Carolina, and Georgia through the Alabama-Mississippi “black belt” (so called for the colour of the fertile soil), through Louisiana, on to Texas, and up the Mississippi River Valley as far as southern Illinois.
 
 ## Planters
 
@@ -31,11 +31,11 @@ tags:
 
 ## Plain White Folk
 
-> The most numerous White southerners were small farmers - the “**plain white folk**,” usually uneducated and often illiterate, eking out hardscrabble lives of bare self-sufficiency. These small farmers (“yeomen”) lived with their families in two-room cabins, raised a few hogs and chickens, grew some corn and cotton, and traded with neighbors more than they bought from stores.
+> The most numerous White southerners were small farmers - the “**plain white folk**,” usually uneducated and often illiterate, eking out hardscrabble lives of bare self-sufficiency. These small farmers (“yeomen”) lived with their families in two-room cabins, raised a few hogs and chickens, grew some corn and cotton, and traded with neighbours more than they bought from stores.
 
 ## Slave Codes
 
-> During the 1660s, colonial legislatures formalized the institution of race-based slavery, with detailed **slave codes** regulating most aspects of enslaved people’s lives. The South Carolina code, for example, defined all “Negroes, Mulattoes, and Indians” sold into bondage as having become enslaved for life, as were the children born of enslaved mothers.
+> During the 1660s, colonial legislatures formalised the institution of race-based slavery, with detailed **slave codes** regulating most aspects of enslaved people’s lives. The South Carolina code, for example, defined all “Negroes, Mulattoes, and Indians” sold into bondage as having become enslaved for life, as were the children born of enslaved mothers.
 
 ## Mulattoes
 
@@ -43,7 +43,7 @@ tags:
 
 ## Field Hands
 
-> Although many enslaved people were artisans or craftsmen (carpenters, blacksmiths, furniture makers, butchers, ship pilots, house servants, cooks, nurses, maids, weavers, basketmakers, etc.), the vast majority were **field hands** who were often organized into work gangs supervised by a Black driver or White overseer. Some enslaved people were “hired out” to other planters or to merchants, churches, or businesses. Others worked on Sundays or holidays to earn cash of their own.
+> Although many enslaved people were artisans or craftsmen (carpenters, blacksmiths, furniture makers, butchers, ship pilots, house servants, cooks, nurses, maids, weavers, basketmakers, etc.), the vast majority were **field hands** who were often organised into work gangs supervised by a Black driver or White overseer. Some enslaved people were “hired out” to other planters or to merchants, churches, or businesses. Others worked on Sundays or holidays to earn cash of their own.
 
 ## Spirituals
 

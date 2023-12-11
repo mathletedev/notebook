@@ -9,7 +9,7 @@ tags:
 
 ## Tariff of Abominations
 
-> Most South Carolinians blamed their economic woes on the Tariff of 1828, which they labeled the “**Tariff of Abominations**.” By taxing British textiles coming into U.S. markets, the 1828 tariff on imported cloth hurt southern cotton growers by reducing British demand for raw cotton from America. It also hurt southerners by raising the prices they had to pay for imports.
+> Most South Carolinians blamed their economic woes on the Tariff of 1828, which they labelled the “**Tariff of Abominations**.” By taxing British textiles coming into U.S. markets, the 1828 tariff on imported cloth hurt southern cotton growers by reducing British demand for raw cotton from America. It also hurt southerners by raising the prices they had to pay for imports.
 
 ## Nullification
 
@@ -33,7 +33,7 @@ tags:
 
 > But in 1834, a new anti-Jackson coalition emerged, united chiefly by their hostility to the president’s authoritarian style. They claimed that he was ruling like a domineering monarch, dubbing him “King Andrew I,” and labeled his Democratic followers Tories. The new anti-Jackson coalition called itself the **Whig party**, a name that had been used by the Patriots of the American Revolution (as well as the parliamentary opponents of the Tories in Britain).
 
-> The Whig party grew directly out of the National Republican party led by John Quincy Adams, Henry Clay, and Daniel Webster. The Whigs also found support among Anti-Masons and even some Democrats who resented President Jackson’s war on the national bank. Of the forty-one Democrats in Congress who had voted against Jackson on rechartering the national bank, twenty-eight had joined the Whigs by 1836. For the next twenty years, the Whigs and the Democrats would be the two major political parties, and for a second time a two-party system emerged
+> The Whig party grew directly out of the National Republican party led by John Quincy Adams, Henry Clay, and Daniel Webster. The Whigs also found support among Anti-Masons and even some Democrats who resented President Jackson’s war on the national bank. Of the forty-one Democrats in Congress who had voted against Jackson on rechartering the national bank, twenty-eight had joined the Whigs by 1836. For the next twenty years, the Whigs and the Democrats would be the two major political parties, and for a second time a two-party system emerged.
 
 ## Panic of 1837
 
