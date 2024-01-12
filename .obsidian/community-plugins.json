@@ -3,5 +3,7 @@
   "obsidian-git",
   "obsidian-languagetool-plugin",
   "obsidian-desmos",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-excalidraw-plugin",
+  "execute-code"
 ]
