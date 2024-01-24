@@ -6,5 +6,8 @@
   "monospaceFontFamily": "Cascadia Mono PL",
   "showViewHeader": false,
   "nativeMenus": false,
-  "baseFontSize": 14
+  "baseFontSize": 14,
+  "enabledCssSnippets": [
+    "desmos"
+  ]
 }

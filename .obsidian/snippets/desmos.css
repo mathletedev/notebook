@@ -1,0 +1,27 @@
+.desmos-graph .dcg-svg-background {
+  fill: #1e1e2e;
+}
+
+.desmos-graph .dcg-svg-minor-gridline {
+  stroke: #b4befe;
+}
+
+.desmos-graph .dcg-svg-axis-line {
+  stroke: #b4befe;
+}
+
+.desmos-graph .dcg-svg-axis-value :nth-child(2) {
+  stroke: #b4befe;
+}
+
+.desmos-graph .dcg-svg-axis-value :nth-child(1) {
+  stroke: #1e1e2e;
+}
+
+.desmos-graph .dcg-svg-label :nth-child(2) > * :nth-child(1) {
+  stroke: #b4befe;
+}
+
+.desmos-graph .dcg-svg-label :nth-child(1) > * :nth-child(1) {
+  stroke: #1e1e2e;
+}
