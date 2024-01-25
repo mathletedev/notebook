@@ -1,9 +1,9 @@
 {
   "accentColor": "",
   "cssTheme": "Catppuccin",
-  "interfaceFontFamily": "Cascadia Code PL",
-  "textFontFamily": "Cascadia Code PL",
-  "monospaceFontFamily": "Cascadia Mono PL",
+  "interfaceFontFamily": "Victor Mono,Cascadia Code PL",
+  "textFontFamily": "Victor Mono,Cascadia Code PL",
+  "monospaceFontFamily": "Victor Mono,Cascadia Mono PL",
   "showViewHeader": false,
   "nativeMenus": false,
   "baseFontSize": 14,
