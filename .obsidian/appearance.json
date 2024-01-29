@@ -3,7 +3,7 @@
   "cssTheme": "Catppuccin",
   "interfaceFontFamily": "Victor Mono,Cascadia Code PL",
   "textFontFamily": "Victor Mono,Cascadia Code PL",
-  "monospaceFontFamily": "Victor Mono,Cascadia Mono PL",
+  "monospaceFontFamily": "Cascadia Mono PL,Victor Mono",
   "showViewHeader": false,
   "nativeMenus": false,
   "baseFontSize": 14,
