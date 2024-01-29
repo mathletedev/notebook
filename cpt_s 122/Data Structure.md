@@ -5,6 +5,8 @@ code:
   - https://github.com/mathletedev/cpt_s/blob/main/122/lectures/movies
 ---
 
+> An organisation of information, usually in memory, for better *algorithm efficiency*, such as **queue**, **stack**, **linked list**, **heap**, **dictionary**, and **tree**, or conceptual unity, such as the name and address of a person. It may include redundant information, such as length of the **list** or number of **nodes** in a **sub-tree**.
+
 ## Selecting a data structure
 
 Consider two linear data structures:
