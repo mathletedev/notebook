@@ -9,7 +9,11 @@ see also:
 
 - Rule: **last in, first out**
 
+- Note: due to its design, it is impossible to search through a stack
+
 ![[Stack 2024-01-29 08.54.16.excalidraw]]
+
+---
 
 ## Operations
 
