@@ -1,6 +1,7 @@
 ---
 tags:
   - cpt_s_122
+  - data_structure
 see also:
   - "[[Heap]]"
 ---

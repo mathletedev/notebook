@@ -1,6 +1,7 @@
 ---
 tags:
   - cpt_s_122
+  - data_structure
 ---
 
 > A linear data structure with a finite sequence of nodes, where nodes are removed from the front or head and nodes are inserted at the back or tail.
