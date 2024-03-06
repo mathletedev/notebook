@@ -16,3 +16,9 @@ Properties:
 **height**: Number of edges from a given leaf to the node in the *longest path*
 
 - Note: the depth of a tree and the height of a tree are always the same
+
+## In-order traversal
+
+1. Go left
+2. Process current node
+3. Go right

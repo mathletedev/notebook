@@ -25,3 +25,13 @@ Consider two linear data structures:
 1. Analyse problem, consider constraints and resource requirements
 2. Determine basic operations that must be supported
 3. Select best data structure that fits these conditions
+
+## Container classes
+
+> Classes designed to hold and organise a collection of other classes.
+
+- Sequence containers: represent *linear* data structures
+- Container adapters
+- Ordered associative containers - represent *non-linear ordered* data structures
+- Set, multiset, map, multimap
+- Unordered associative containers - represent *non-linear unordered* data structures
