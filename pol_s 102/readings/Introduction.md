@@ -28,4 +28,37 @@ Comparative politics tries to explain why Arab Spring didn't result in wave of d
 
 > **Comparative politics** is the study of political phenomena that occur predominantly within countries. **International politics** is the study of political phenomena that occur predominantly between countries.
 
-Left of page 31
+## Aftermath
+
+Economic instability went from Middle East to industrial countries again, forcing scholars to revisit. Maybe capitalism can lessen the problem.
+
+*Societal order in large groups is something that needs to be explained, rather than assumed.*
+
+## Overview
+
+### State Failure
+
+**Chapter 4**: What is a state?
+
+### Economic Determinants of Democracy
+
+**Chapter 6**: Economic influences on democracy
+
+### Cultural Determinants of Democracy
+
+**Chapter 7**: Cultural influences on democracy
+**Chapter 8**: Dictatorship & revolution
+
+### What's So Good about Democracy Anyway?
+
+**Chapter 9**: Democracy's material influence
+**Chapter 10**: Variations in dictatorship & democratic transitions
+**Chapter 11**: Democratic process & ideal political organisation
+
+### Institutional Design
+
+**Chapter 12**: Forms of democracy
+**Chapter 13**: Electoral systems
+**Chapter 14**: Party systems
+**Chapter 15**: Other forms of variance
+**Chapter 16**: Consequences of different types of democracies
