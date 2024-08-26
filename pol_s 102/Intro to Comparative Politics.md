@@ -2,7 +2,6 @@
 tags:
   - pol_s_102
 created: 2024-08-22
-updated:
 ---
 
 ## Normative vs. Aesthetic Claims
