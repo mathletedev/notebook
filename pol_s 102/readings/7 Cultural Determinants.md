@@ -12,14 +12,18 @@ Two cultural arguments categories:
 
 ## Classical Cultural Arguments: Mill and Montesquieu
 
-> *Example: Aeschylus's Play,* The Persians
-> Associated people of Asia with democracy found in Athenian Greece. Later known as the Asian values debate in the 1990s.
+> *Example: Aeschylus's Play,* The Persians *(472BC)*
+> Distinguished East and West, associated East with despotism, West with democracy. Democracy seen in Athenian Greece. Later addressed in the Asian values debate in the 1990s.
 
-> *Example: Montesquieu*
-> First person to write in any great detail about importance of culture to political institutions. Believed best government "leads men by following their propensities and inclinations". 
+> *Example: Montesquieu,* The Spirit of the Laws *(1748)*
+> Divided political institutions into monarchies, despotisms, and republics (democracies). First person to write in any great detail about importance of culture to political institutions. Believed best government "leads men by following their propensities and inclinations". 
 > Political institutions are shaped by a country's native factors (religion, riches, numbers, commerce, manners, customs). Very difficult to export political institutions from one country to another.
 
-John Stuart Mill also echoed Montesquieu's argument, e.g. how Native American Indians wouldn't have a civilised government without outside influence. However, Mill believed that culture shouldn't prevent institutions. Familiarity helps, but it's possible to make a strange thing familiar.
+> *Example: John Stuart Mill,* Representative Government *(1861)*
+> One person can't do everything, so representative government is needed.
+> Also echoed Montesquieu's argument, e.g. how Native American Indians wouldn't have a civilised government without outside influence.
+> However, Mill believed that culture shouldn't prevent institutions. Familiarity helps, but it's possible to make a strange thing familiar. Need to take account of "preexisting habits and feelings" when creating political institutions.
+> *The above argument is not falsifiable.*
 
 These arguments are vague and nonscientific, since they don't specify *exactly* what about culture matters. Also hard to discern exact casual relationship between culture, economic development, and democracy.
 
