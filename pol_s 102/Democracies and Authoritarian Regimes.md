@@ -2,6 +2,7 @@
 tags:
   - pol_s_102
 created: 2024-08-27
+updated: 2024-08-29
 readings:
   - "[[7 Cultural Determinants]]"
 ---
@@ -49,3 +50,63 @@ A cluster of attitudes that includes:
 **Civic**: Participation in one's local community and/or government.
 
 *Civic culture is necessary for a stable democracy.*
+
+## Putnam
+
+### Civic Traditions in Modern Italy
+
+> *Key Question*
+> Why are regional governments in the north of Italy more effective than regional governments in the south?
+
+- Northern Italy: Strong civic culture
+- More active civil society -> norm of citizens taking part in politics and social events within their broader community
+- Value of social networks: Emphasis on reciprocity and social cooperation
+
+What makes a successful democracy?
+- A strong level of mutual trust amongst citizens
+
+### Bowling Alone
+
+Focus on the decline of social networks, especially in the United States.
+- Decline of unions, religious groups, Boy/Girl Scout volunteers, parent-teacher associations, Freemasonry, etc.
+
+People used to go to bowling leagues to bowl, now people bowl alone. People in urban areas tend to socialise less, whereas people in rural areas are more likely to hang out with neighbours, friends, etc.
+
+Negative consequences for American democracy:
+- Decreased voter turnout
+- Decreased work/membership with political parties
+- Growing distrust amongst citizens and distrust for politicians (we can't be constantly worried about everything)
+
+## Inglehart
+
+### Values and Democratic Stability
+
+Broad conceptualisation of civic culture:
+- A coherent set of personal life satisfaction, political satisfaction, interpersonal trust, and support for the existing social order
+- Countries that rank highly according to these elements are much likelier to be stable democracies
+
+Operationalisation and measurement:
+- To what extent are people in *industrial countries* satisfied with life?
+- Italy has very low "Very Satisfied" percentage (following Putnam's argument)
+- Denmark has very high percentage
+- Earlier democratic institutions are correlated with higher mean satisfaction with life
+
+Possible outside variable:
+**Economic change** -> cultural change -> stable democracy
+Industrialisation -> shift from traditional to secular-rational values -> civic culture
+
+Role of technology and economic growth:
+- People have more autonomy over their lives
+- More resources and time
+  - If you don't have to worry about starving anymore, you can think more about the world
+- Concerns shift
+
+Shift to personal/individual autonomy
+- Move away from all-encompassing religious doctrines that apply to everyone
+- Respect for difference, right to live life as they please (within limits)
+- Self-expression
+- Questioning of authorities, hierarchies, dogmatism
+- This is **secular-rational**
+- This is **civic culture**
+
+Higher GNP (gross national product) per capita = Higher life satisfaction & interpersonal trust
