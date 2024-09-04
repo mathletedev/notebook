@@ -8,6 +8,18 @@ created: 2024-08-30
 
 ![[Logic Gate 2024-08-30 09.25.19.excalidraw]]
 
+```tikz
+\usepackage{circuitikz}
+\begin{document}
+\begin{circuitikz}[american, voltage shift=0.5]
+
+\draw (0, 0) node[rground]{}
+node[nfet](Q1){FET}
+
+\end{circuitikz}
+\end{document}
+```
+
 | A   | B   | Q1  | Q2  | Q3  | Q4  | Y   |
 | --- | --- | --- | --- | --- | --- | --- |
 | 0   | 0   | on  | on  | off | off | 1   |
@@ -46,3 +58,20 @@ pFETs and nFETs are *always* complementary. pFETs will always source from `Vdd`,
 **Metal oxide semiconductor (MOS)**: The type of semiconductor we use
 **MOSFET**: MOS FET
 **CMOS**: Complementary MOS
+
+---
+
+## Symbols
+
+![[Logic Gate 2024-09-04 09.20.34.excalidraw]]
+
+Buffers can be used to represent an inverter.
+
+### Conjugates
+
+![[Logic Gate 2024-09-04 09.28.47.excalidraw]]
+
+To make a conjugate:
+- Change the gate shape
+- Where there are bubbles, remove bubbles
+- Where there are no bubbles, add bubbles
