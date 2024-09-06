@@ -2,6 +2,7 @@
 tags:
   - e_e_214
 created: 2024-08-30
+updated: 2024-09-06
 ---
 
 ## NAND Relationship
@@ -75,3 +76,11 @@ To make a conjugate:
 - Change the gate shape
 - Where there are bubbles, remove bubbles
 - Where there are no bubbles, add bubbles
+
+---
+
+## Compound Logic Gates
+
+![[Logic Gate 2024-09-06 09.45.08.excalidraw]]
+
+$Y \Leftarrow \overline A . \overline B . C + \overline A . B . C + A . B . C$
