@@ -2,6 +2,7 @@
 tags:
   - pol_s_102
 created: 2024-09-05
+updated: 2024-09-10
 ---
 
 Why so important?
@@ -102,3 +103,35 @@ Strengths:
 Weaknesses:
 - Small, extremist parties
 - Government formation can be problematic
+
+#### PR Factor #1: Quotas
+
+Not all whole numbers: How to allocate 1/4 of a seat?
+Most common variation: **d'Hondt formula**
+
+#### PR Factor #2: District Magnitude
+
+- The most important factor influencing the proportionality of a system
+- How many representatives per district?
+- Larger magnitude = more proportional
+
+#### PR Factor #3: Electoral Thresholds
+
+- A minimum percentage of votes a party/candidate must win before they can get a seat
+  - Germany: 5%
+  - Israel: 3.25%
+  - Turkey: 10%
+- Discourages smaller, extremist parties (e.g. Nazi party in Germany) and party system fragmentation
+
+---
+
+*Talk about these points in country case portfolio electoral systems:*
+
+- Institutions vs. culture in determining outcomes
+- For you, is there a perfect mix of accountability/representation?
+- Which one is more important to you?
+- What are the advantages and disadvantages of different systems?
+
+Gerrymandering/Malapportionment: Giving certain regions a higher proportion of one party's vote.
+
+*There is strategic choice involved in the shaping of institutions.*
