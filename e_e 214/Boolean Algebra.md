@@ -43,7 +43,7 @@ $\overline{A + B} = \overline A . \overline B$
 ### Absorptive
 
 $A + \overline A . B = A + B$
-$A . (\overline A + B)$
+$A . (\overline A + B) = A . B$
 
 Proof:
 $A + \overline A . B$
