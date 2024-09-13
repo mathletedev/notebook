@@ -50,3 +50,27 @@ Government moves slowly, can't pull a kill switch.
 **Minimum winning coalitions**: Attract just enough support that you need, but don't want people far away from you ideologically.
 
 **Principal-agent problem**: When an important person (principal) has an agent, but the agent faces a conflict of interest. The agent may not follow the principal's wishes.
+
+## Juan Linz, The Perils of Presidentialism
+
+- Presidentialism is more unstable than parliamentary systems
+- Zero-sum elections:
+  - Presidentialism is problematic because it operates according to the rule of "winner-takes-all", resulting in a zero-sum game and potential for conflict
+- The style of presidential politics:
+  - Two-dimensional: President is head of state and representative of entire nation, but he stands for a clearly partisan political opinion
+- The problem of dual legitimacy:
+  - A presidential cabinet is less likely than parliament to contain strong and independent-minded members
+  - The officers of a president's cabinet hold their posts purely at the sufferance of their chief
+  - Both a president and legislature can make a claim to legitimacy (when you fracture the power, fights can start)
+- The issue of stability:
+  - A prime minister who is bad can easily be removed, but a corrupt or highly unpopular president can't
+
+## Why Should Parliamentary Regimes Be More Stable?
+
+### Stepan and Skach (1993)
+
+- Mutual dependence should encourage **reconciliation** between executive and legislative branches
+- Mutual independence encourages **antagonism** -> leads to deadlock -> then my turn to the military to break stalemate
+- But in parliamentary regimes there are votes of no confidence, and/or PM can dissolve parliament and call for new elections
+
+What if it's all a *coincidence* that Latin America acquired presidential systems, but just went back to what they had prior to being democracies?
