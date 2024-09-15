@@ -36,7 +36,6 @@ Representation
 ### Single-Member Districts (SMD)
 
 - Plurality system
-  - 
   - E.g. UK, US, Canada, India, Nigeria
 - Just need to win the plurality of votes within a system
 
