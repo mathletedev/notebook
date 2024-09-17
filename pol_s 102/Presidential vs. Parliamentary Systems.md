@@ -2,6 +2,7 @@
 tags:
   - pol_s_102
 created: 2024-09-10
+updated: 2024-09-17
 ---
 
 - Degree of survival
@@ -74,3 +75,34 @@ Government moves slowly, can't pull a kill switch.
 - But in parliamentary regimes there are votes of no confidence, and/or PM can dissolve parliament and call for new elections
 
 What if it's all a *coincidence* that Latin America acquired presidential systems, but just went back to what they had prior to being democracies?
+
+## Parliamentary Regimes
+
+### Pros
+
+- Faster & easier to pass legislature
+- Can be more beneficial to countries with a population that is divided racially, ethnically, or ideologically (PM does not have as much influence as a president)
+- Easy to form new parties
+- Minimises political polarisation
+- Often requires the formation of coalitions (Ensures no groups/special interests will be favoured over the other)
+
+### Cons
+
+- Only the legislature can vote for the head of state / PM but not the electorate
+- Coalitions and governments can be unstable, especially if they are minority governments
+- Lack of definite election calendar / term limits can be abused (Holding elections when it is in the governing party's best interests)
+
+## Presidential Regimes
+
+### Pros
+
+- President is directly elected by the people
+- Checks and balances as a result of separation of powers
+- If a president has strong powers then can act quickly
+- Presidents have a fixed term, providing more stability than PMs which can be removed at any time
+
+### Cons
+
+- Potential for gridlock between the two powers
+- May be a disadvantage not to be able to remove a president early
+- Perils of presidentialism - tendency to authoritarianism due to increased polarisation
