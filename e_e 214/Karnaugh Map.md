@@ -53,3 +53,28 @@ For both the SOP and POS equations:
 
 1. Count the number of gates
 2. Count the number of inputs
+
+## Supermaps
+
+![[Karnaugh Map 2024-09-18 09.21.25.excalidraw]]
+
+Values in the same relative positions can be grouped together.
+
+## Optimising Gates
+
+![[Karnaugh Map 2024-09-18 09.37.14.excalidraw]]
+
+Implementing a sub-optimal solution for one output to optimise the entire system by re-using gates.
+
+To do this, you can look at values in the same relative positions across multiple K-maps of outputs.
+
+## Don't Cares
+
+If a combination of inputs is physically impossible, it can be treated as a **don't care** ($\phi$ or X). For instance, radio buttons.
+
+You can loop a don't care as either a `0` or a `1`, whichever makes the logic simpler.
+
+| A\BC | 00  | 01  | 11  | 10  |
+| ---- | --- | --- | --- | --- |
+| 0    | 0   | 1   | X   | 1   |
+| 1    | 0   | X   | X   | 0   |
