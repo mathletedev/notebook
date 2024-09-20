@@ -2,6 +2,7 @@
 tags:
   - e_e_214
 created: 2024-09-18
+updated: 2024-09-20
 ---
 
 | AB\CD | 00  | 01  | 11  | 10  |
@@ -78,3 +79,10 @@ You can loop a don't care as either a `0` or a `1`, whichever makes the logic si
 | ---- | --- | --- | --- | --- |
 | 0    | 0   | 1   | X   | 1   |
 | 1    | 0   | X   | X   | 0   |
+
+> *Example*
+> $$ Y \Leftarrow \sum m(0, 1, 6, 7, 9, 12, 14) + \phi (3, 4, 11, 13) $$
+
+$Y_{SOP} = \overline B D + B \overline D + \overline A B C + \overline A \overline B \overline C$
+
+$Y_{POS} = (\overline A + B + D) (B + \overline C) (\overline A + \overline B + \overline D) (\overline B + C + \overline D)$
