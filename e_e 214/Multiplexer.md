@@ -2,6 +2,7 @@
 tags:
   - e_e_214
 created: 2024-09-23
+updated: 2024-09-25
 ---
 
 > Select which input drives an output.
@@ -18,3 +19,7 @@ Using [[Entered Variables|entered variables]]:
 | 1   | 1   | I3  |
 
 There are $\log_2(N)$ selectors, where $N$ is the number of inputs.
+
+---
+
+**Bus**: A group of wires representing a single binary number.
