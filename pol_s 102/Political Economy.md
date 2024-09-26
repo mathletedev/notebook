@@ -9,7 +9,7 @@ Two different types of theories about political outcomes:
 - Political institutions
   - Electoral systems
   - Presidential vs. parliamentary systems
-  - 
+  - Political parties
 
 ## Key Debates/Ideas About Political Economy
 
