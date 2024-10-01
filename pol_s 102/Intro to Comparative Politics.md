@@ -56,7 +56,7 @@ The world is messy:
 - Usually a mix of things going on
 - But we want our explanations to be coherent and try to accurately describe what's happening
 
-### Political culture
+### Political Culture
 
 Norms, values, beliefs, religion, etc. affect political outcomes.
 
