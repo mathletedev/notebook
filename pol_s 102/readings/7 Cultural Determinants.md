@@ -29,7 +29,7 @@ These arguments are vague and nonscientific, since they don't specify *exactly* 
 
 ## Does Democracy Require a Civic Culture?
 
-> *Example: Gabriel Almod and Sidney Verba,* The Civic Culture
+> *Example: Gabriel Almond and Sidney Verba,* The Civic Culture
 > Three basic types of political culture: parochial, subject, and participant/civic. Only civic culture is compatible with democracy.
 > Civic culture reflects a particular cluster of attitudes that includes: belief that individuals can influence political decisions, positive feelings towards the political system, high levels of interpersonal trust, and preferences for gradual societal change. Parochial and subject political cultures reflect different clusters of attitudes.
 > Germany, Italy, Mexico, U.S., and U.K. were the most stable democracies and most closely resembled ideal civic culture. Therefore, civic culture is necessary for democratic stability.
