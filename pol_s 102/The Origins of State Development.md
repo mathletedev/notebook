@@ -2,6 +2,7 @@
 tags:
   - pol_s_102
 created: 2024-10-03
+updated: 2024-10-08
 ---
 
 ## The Modern State
@@ -127,3 +128,33 @@ People will naturally do what they want in the absence of authority.
   - The despot makes decisions unilaterally, but implementation requires delegation to agents and is therefore potentially undermined by agency loss
   - Despotic states may be infrastructurally weak.
 - Infrastructural power refers to the capacity of the ruler (state) to implement its decisions, elicit compliance from its population, and therefore achieve its objectives.
+
+---
+
+**Despotic power**: King can make decisions with little consultation. Non-despotic e.g. there are many feudal landlords who can challenge the king.
+
+Despotic power can be lowered through electoral systems -> accountability and representation
+
+Sargon captured city-states but kept the authorities (under his own command). Adapted local power structures to his own needs.
+
+Did not usually disrupt local institutions. Instead, as long as local system of rule provided some tax, it was cost effective.
+
+## Four Strategies of Imperial Rule
+
+1. Direct rule by emperor's military forces and bureaucrats: Cannot do this everywhere!
+2. Ideological conversion: Create agents that identify with ruler through culture and education.
+3. Provide public goods: Induce compliance through better services (win hearts and minds).
+4. Rule indirectly through local power structures.
+
+## Why Not Rule Through a Bureaucracy?
+
+- Relatively primitive agrarian economies with limited trade will not support a class of salaried bureaucrats
+- Relatively primitive transportation and communication will not allow bureaucrats to cover extensive territory
+- Relatively primitive techniques for recording and storing technology
+
+*Takeaway: limited by technology*
+
+## Pre-Modern States
+
+- In virtually all pre-modern polities:
+  - Rulers, no matter how powerful, ruled indirectly, usually relying on local elites, supplementing them at times with elements of the army or directly appointed rules
