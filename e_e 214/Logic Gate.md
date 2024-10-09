@@ -2,7 +2,7 @@
 tags:
   - e_e_214
 created: 2024-08-30
-updated: 2024-09-06
+updated: 2024-10-09
 ---
 
 ## NAND Relationship
@@ -84,3 +84,13 @@ To make a conjugate:
 ![[Logic Gate 2024-09-06 09.45.08.excalidraw]]
 
 $Y \Leftarrow \overline A . \overline B . C + \overline A . B . C + A . B . C$
+
+## XOR Gate
+
+![[Logic Gate 2024-10-09 09.40.05.excalidraw]]
+
+Total: 16 transistors
+
+In general,
+- XOR is `1` when an **odd** number of inputs are `1`
+- XNOR is `1` when an **even** number of inputs are `1`
