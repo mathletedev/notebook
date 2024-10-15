@@ -2,7 +2,7 @@
 tags:
   - pol_s_102
 created: 2024-10-08
-updated: 2024-10-10
+updated: 2024-10-15
 ---
 
 ## The Puzzle of State Strength
@@ -112,3 +112,97 @@ While Europe was fragmented into hundreds of polities, China remained a unified 
 ## Looking Forward: Post-Colonial States
 
 Why are post-colonial states in Latin America, Africa, the Middle East, and Asia, weaker on average than European states?
+
+---
+
+## Three Broad Types of Post-Colonial States
+
+Evans, Predatory, Developmental, and other Apparatuses (1989)
+
+- Predatory:
+  - "True to patrimonial tradition, control of the state apparatus is vested in *a small group of personalistically interconnected individuals*".
+  - This makes "... the development of a bourgeoisie oriented towards long-term profit-based productive investment almost an impossibility".
+- Developmental:
+  - Interventionism to spur industrial development, aiming to becoming competitive in international markets.
+  - Begin with low-end manufacturing and cheap labour.
+  - Emphasis on rapid expansion of **exports**.
+- Intermediary:
+  - Lack of generalised meritocratic recruitment and hence political leaders try to create *pockets of efficiency* within the bureaucracy.
+
+### Predatory States
+
+- Legacy of colonial policies that consolidate power of local intermediaries ruling through personal authority
+- At independence, neo-patrimonial rulers use state apparatus to extract personal wealth
+  - Staff highest echelons of the state with loyal followers
+- Absence of bureaucratic coherence, regularised administrative procedures, and rule of law
+  - State apparatus, therefore, incapable of executing rudimentary development projects
+- Weak states subsidised by international system (and, in some, exports of oil, diamonds, etc.)
+
+#### Example: Nigeria (1970-1980)
+
+- Gains independence in 1960
+  - Leading up to this, elites had consulted with the British on emerging industry and pressures for decolonisation in the country
+- These elites further secure their positions following independence
+  - E.g. positions in government, business licenses, rights to running water and electricity granted to elites' supporters
+- Elites operate outside the law: subdue and dissent minority
+
+High despotic power, low infrastructural power
+
+### Developmental States: "East Asian Miracle"
+
+- Coherent, meritocratic bureaucracy -> high levels of infrastructural power
+- Bureaucratic autonomy: Efforts to minimise intervention by political or business elites in policy-making
+- *Embedded autonomy*: Complex relationship of interdependence and cooperation between autonomous and highly capable bureaucracy and private corporations
+
+#### Example: South Korea (1960-)
+
+- Coup 1961: Political/economic instability
+
+#### Conditions for Developmental States
+
+... are very limited. Some particular conditions paved the way for the East Asian Miracle:
+
+- Distinct colonial experiences: Japanese colonialism in Korea and Taiwan paved the way for the transfer of the Japanese developmental state to former colonies.
+- Land reform: Remove powerful intermediaries between state and society, allows for stronger bureaucratic states.
+- War and state building: Tense security environment of East Asia produces stronger states.
+- Resource scarcity precludes reliance on wealth from mineral exports
+
+### Intermediary States
+
+- Intermediate levels of infrastructural power based on uneasy balance between developmentalism and corruption
+- "Pockets of efficiency":
+  - Specific agencies follow bureaucratic logic, but these effective agencies are surrounded by corruption and imperfectly protected from either political intervention or rent-seeking behaviour by economic firms
+- Therefore, professionally executed developmental norms
+
+#### Example: Argentina
+
+- Import Substitution Industrialisation (ISI)
+- Protectionism against imports, heavy reliance on primary exports
+
+Problem: Own citizens can't even afford goods produced in own country
+
+## What Distinguishes These States?
+
+- Levels of infrastructural/despotic power!
+- Somewhere like North Korea may have high despotic power
+  - But little infrastructural power: Low incentives for economic growth and state development in the same way Europe unfolded
+- Predatory states still quite abundant in the world
+- Developmental states have managed to increase their infrastructural power rapidly
+  - But again, according to very different path compared to Europe
+- Intermediary states are somewhere in the middle
+
+## Questions to Think About
+
+- Did your countries centralise their state?
+  - Did they follow European/Western trajectory e.g. military revolution?
+  - Or do they fit into one of the three postcolonial categories?
+    - Or something different?
+- But beyond this, broader implications/questions:
+  - **Environmental limitations** and **limits to capitalist growth**: We cannot possibly all follow the US/European model to state development and economic development
+  - State power is not unbreakable: "Great" empires do fall after all
+    - New power vacuums, e.g. collapse of the British Empire
+    - Will the "dependency curse" break?
+  - BRICs and rise of new nations through different economic policies
+
+> *Takeaway*
+> States can't do what was done before, so how will they move forwards?
