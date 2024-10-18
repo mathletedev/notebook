@@ -172,7 +172,7 @@ High despotic power, low infrastructural power
 - Intermediate levels of infrastructural power based on uneasy balance between developmentalism and corruption
 - "Pockets of efficiency":
   - Specific agencies follow bureaucratic logic, but these effective agencies are surrounded by corruption and imperfectly protected from either political intervention or rent-seeking behaviour by economic firms
-- Therefore, professionally executed developmental norms
+- Therefore, professionally executed developmental projects are not the norm
 
 #### Example: Argentina
 
