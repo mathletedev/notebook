@@ -168,7 +168,7 @@ Mid-19th century: Invention of *l'homme type* and therefore invention of *nation
 
 ### Varieties of Nationalism
 
-Initially, nationalism is a product of state building; over time, the idea of nationalism spreads beyond wwestern Europe to entirel different polities. Nationalism can be imported from abroad, but is altered in the process:
+Initially, nationalism is a product of state building; over time, the idea of nationalism spreads beyond western Europe to entirely different polities. Nationalism can be imported from abroad, but is altered in the process:
 - Demand to alter territorial boundaries of multi-ethnic empires to include or exclude particular groups
 - Demand from specific groups for independence from multi-ethnic empires
 - Demand to build a state that has the capacity to defend the nation
