@@ -128,7 +128,7 @@ States bargain with citizens: More say in exchange for private property.
 ## How Contemporary Social Scientists Think About Collective Action
 
 - Strategic action and game theory: The logic of collective action organisations and resources
-- Public goods characterised by: Jointness of supply and non-excludability
+- Public goods characterised by: **Jointness of supply** and **non-excludability**
 - States, state strategies, and structures of political opportunity
 
 ## The Problem of Collective Action
@@ -154,3 +154,52 @@ An alternative framework is based on mutual expectations: Players will cooperate
 Assurance games are based on **mutual expectations**: If I expect you to protest, I will protest too. Protests occur if a sufficient number of players share these mutual expectations.
 
 "You may not have done anything, but I will teach all of you a lesson" - Crucifixion method
+
+## Emotions
+
+Evidence exists that people will join social movements if they think the movement represents **justice**.
+- Justice is a public good, but a particular kind: Invokes complex emotions like pride and self-identity as a "moral" person
+
+But this still can't explain everything - plenty of people still stay home.
+
+For some, the best outcome is participating in the quest for justice.
+
+## Risk Aversion
+
+- Some people are highly risk accepting: They will participate if they anticipate that a small number of others will participate.
+- Others are highly risk averse: They will participate only if they anticipate large numbers of co-participants.
+
+Note: Hindsight is 20/20; no one anticipates huge changes but they are easy to see in hindsight.
+
+Million-dollar game:
+- Button 1 is 100% one million dollars
+- Button 2 is 50% two million dollars
+
+## The Problem of Concealed Preferences
+
+- Dictatorships can disrupt the formation of mutual expectations of collective action by fostering mutual mistrust (extensive security apparatus & demand that citizens publicly profess loyalty to regime).
+- Players have incentives to conceal their true preferences, or dissimulate, making it difficult to judge the probability that other will act.
+- This is a problem of **asymmetric information**.
+
+For action to occur, there must be *mutual knowledge*.
+
+## Information Cascades and Dissent
+
+- **Information cascade**: First the most risk-accepting people participate, and their participation gradually induces the more risk-averse to participate, until even the most risk averse have joined in; crowds start small and may quickly swell to large sizes.
+- Each person *updates their expectations as private information becomes public information*.
+- This is why outbursts of social movements can be unpredictable, and dictatorships are so keen to suppress any sign of dissent.
+
+## A Toy Model of Risk Thresholds
+
+- Individual $i$ has a threshold, $t_i$, defined as the number of protesters, $P$, that $i$ must observe participating before joining collective protest action: $i$ participates if $P > t_i$.
+- A risk profile, $T$, is just a collection of individual risk thresholds. Let's look at different possible risk profiles in a population of five people.
+  1. $T = \{ 0, 1, 2, 2, 2 \}$: All participate because the first person is highly risk-accepting
+  2. $T = \{ 1, 1, 2, 2, 2 \}$: None praticipate
+  3. $T = \{ 0, 1, 2, 3, 4 \}$: All participate
+- Note that in the three scenarios, $\overline t = 1.4; 1.6; 2.0$, so mean level itself does not predict participation.
+
+## Contingency and Surprise
+
+- The risk aversion model is surely too simple, and it is simply not possible to gain access to the distribution of risk.
+- But if these speculations about preference concealment and information cascades are correct, then we have an appreciation of why revolutions like the Arab Spring take everyone, observers and participants, by surprise.
+- It might be the case that we can explain after the fact, but we cannot predict...
