@@ -44,7 +44,7 @@ Origins of social movements: How do social movements overcome the collective act
 flowchart LR
 
 A[State Building] --> B[Capitalism]
---> C[Nationalism & Citizenship]
+A --> C[Nationalism & Citizenship]
 B --> D[Worker Movements & Socialist Parties]
 C --> E[Citizenship & Early Social Movements]
 E --> D
