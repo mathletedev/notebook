@@ -12,3 +12,6 @@ After truth tables and [[Karnaugh Map|K-maps]]:
 
 $S \Leftarrow A \oplus B \oplus Cin$
 $Cout \Leftarrow A \oplus B \oplus Cin$
+
+**Ripple-Carry Adder (RCA)**: The above circuit, requires lots of time for calculations.
+**Carry-Propagate-Generate Network (CGPN)**: Allows for minimal delay between carrying bits.
