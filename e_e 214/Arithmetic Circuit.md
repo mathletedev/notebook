@@ -31,3 +31,13 @@ etc.
 
 To obtain the negative of a number, we can invert the bits and add 1:
 3 -> `00000011` -> `11111100` -> `11111101` -> -3
+
+## Comparator
+
+### Equality
+
+`XNOR` each pair of bits, then `AND` the results.
+
+### Greater Than / Less Than
+
+![[Arithmetic Circuit 2024-11-04 09.33.00.excalidraw]]
