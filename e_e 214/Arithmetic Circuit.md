@@ -2,6 +2,7 @@
 tags:
   - e_e_214
 created: 2024-10-28
+updated: 2024-11-04
 ---
 
 Use **divide and conquer** strategy: Instead of dealing with `N` bits all at once, do individual calculations on pairs of bits (as well as a carry-in bit).
