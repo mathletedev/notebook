@@ -66,3 +66,85 @@ Most authoritarian regimes combine two or more features.
   - When encountering crises: Grant moderate increases in political participation and representation for opposition
 - Personalist dictatorships:
   - Still supported by a party/military, but leader has more control e.g. North Korea
+  
+---
+
+In Table 10.1 $P(AB | Military) > P(AD | Civilian) > P(AD | Monarchy)$.
+
+## Why Are Some Authoritarian Regimes So Resilient?
+
+Supporters of liberal democracy typically assume that most people don't want to live under authoritarian regimes... so why are there so many?
+
+A few different reasons:
+- Brutal repression and inability to act collectively
+- The "resource curse"
+- "Competitive authoritarianism" and "democratic" mechanisms
+
+## Collective Action
+
+We've already discussed this in depth in the context of [[Democratic Transitions|democratisation]].
+
+- There are dangers of opposing dictatorships
+  - Citizens don't tend to reveal their true preferences (concealed preferences), preventing an information cascade
+- Difficulty of knowing when other people (i.e. opposition to dictatorship) will organise with you
+  - Remember the assurance game
+- Some regimes especially repressive - threats of punishment deter any (or most) opposition
+
+## Ross, Does Oil Hinder Democracy?
+
+If oil does have antidemocratic effects, what is the causal mechanism?
+- Rentier effect:
+  - Resource-rich governments use low taxes and patronage to relieve pressures for greater accountability; e.g. public less likely to demand accountability and representation in government.
+- Repression effect:
+  - Resource wealth stunts democratisation by enabling governments to boost their funding for internal security.
+- Modernisation effect:
+  - Growth based on the export of oil and minerals fails to bring about the social and cultural changes that tend to produce democratic government.
+
+## Caveats to the Resource Curse Hypothesis?
+
+Waldner & Smith - Rethinking the Resource Curse (2021)
+
+- Insofar as there is a political resource curse, it appears to be an overwhelmingly regional phenomenon restricted to the major oil-producing monarchies of the Arabian Peninsula.
+  - The small oil principalities along the eastern shore o the Arabian Peninsula represent instances of survivorship bias; after correcting for the bias, they fail to find evidence for a political resource curse.
+- With reference to temporal heterogeneity, they advance evidence that during the recent Third Wave of democratisation, oil may very well be more of a blessing than a curse, as it appears to aid democratic consolidation in at least some parts of the world.
+
+## Brancati, "Democratic" Authoritarianism
+
+In the past decade, around 70% of authoritarian regimes have adopted legislative elections. Why?
+- **Signaling**: Using institutions to reveal the strength of the regime; elections are held and results are engineered to win. Creases an aura of invincibility by manufacturing large electoral victories.
+- **Info acquisition**: Identifying locations of supporters and opposition, learning about grievances before they become manifest as protests.
+- **Patronage distribution**: Buying support from political elites and citizens. Political parties provide members with benefits and are more likely to oppose a coup.
+- **Monitoring**: Regime elites can monitor dictators, and vice versa.
+- **Credible commitment**: Democratic institutions allow authoritarian regimes to credibly commit not expropriate domestic investment.
+
+## "Democratic" Authoritarianism
+
+- Dictatorships differ on their degree of competitiveness.
+- A politically closed civilian dictatorship allows no opposition party to operate legally in the political arena.
+- Electoral authoritarian regimes hold elections and tolerate some pluralism and inter-party competition but continue to violate minimal norms of democracy on a large scale such that opposition parties have no realistic opportunities to come to power.
+  - Hegemonic electoral regime: The ruling party or party associated with the personalistic ruler routinely wins overwhelming and manufactured majorities.
+  - Competitive electoral regime: Opposition parties representing genuine preferences of a subset of citizens win substantial minorities in presidential or parliamentary elections that have some degree of legality; but ruling party uses its control over state and economy to make its victory almost foolproof.
+
+## Levistsky and Way, The Rise of Competitive Authoritarianism
+
+- Time to stop thinking about authoritarian regimes as incomplete or transitional forms of democracy, in contrast to modernisation theory
+- There are **hybrid regimes**, such as competitive authoritarianism
+- Four arenas of electoral contestation:
+  - **Elections** exist (still biased in media, harassment of opposition, lack of transparency)
+  - **Legislatures** exist (though tend to be relatively weak, but may be focal points of opposition activity)
+  - **Judiciaries** exist (regimes subordinate this through bribery, extortion, etc.)
+  - **Independent media** exists (but executive seeks to suppress)
+- Nevertheless, authoritarian regimes adopt these measures of "contestation" for reasons that Brancati has already explained to us.
+
+## Problems of Explaining Autocratic Durability
+
+Problem: Too many theories, each with evidentiary support:
+- Data is scarce
+- Problem of inferring motives from outcomes
+- Same institutions can have widely varying effects in different contexts
+- Hard to generalise across regimes
+- The most basic problem: Dictators have too much freedom, difficult to explain behaviour and outcomes in terms of either **constraints** or **optimisation**.
+
+## Democratic Breakdown/Backsliding
+
+... is unfortunately more common than we'd like to think.
