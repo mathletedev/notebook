@@ -74,3 +74,56 @@ Warning: Discussing political identity is *not* necessarily the same thing as di
   - Little insight into when or how identities translate into political organising and action in some cases and not others
   - Can't explain variation, especially in degree and kind of conflict
   - Can't explain new identities or conflicts
+
+## What is Constructivism?
+
+- Identity is shaped and given meaning by social, structural forces including discourse, frames, symbols, social practices, institutions, power dynamics, and more.
+- It is "constructed" and not a given. This construction determines an identity's content, boundaries, and relation to other identities.
+- It clearly acknowledges how endogeneity is involved in identity formation.
+  - The state helps create identities and reifies them
+  - Individuals internalise them
+
+## Constructivism's Strengths and Weaknesses
+
+Strengths:
+- Better able to explain cross-national variation in emergence and salience of political identity because it allows individuals to choose and consciously attach political significance to identity
+- Better able to explain cross-national variation in emergence and salience of political identity because it focuses on how the socio-political context shapes, constrains, and constructs individual choices
+
+Weaknesses:
+- Unable to make sense of the way most people perceive their own identities
+- Difficult to identify the precise mechanism by which identity becomes politically salient for millions of people and is transmitted from one generation to the next
+
+## How Does Identity Become Polarised?
+
+Primordialists don't give us a lot of answers to this question.
+
+Constructivist argument:
+Long-term social, economic, or technological change because someone or some group had an interest in that outcome
+
+## Different Ways of Thinking of Representation
+
+- Descriptive
+  - Whether representatives resemble their constituents along various identities
+  - Assumption is members of those groups share policy preferences
+- Symbolic
+  - Implies that a representative symbolises a constituency (Stokke & Selboe 2009)
+    - Monarchs symbolising a nation
+    - Different from descriptive, which says representative bodies should reflect the composition of people who are being represented
+- Substantive
+  - Whether representative take actions in line with the substantive and ideological interests of those they represent
+
+## The Politics of Gender
+
+Gender as a category:
+- A form of socially constructed political identity that considers variation in the social meaning of masculinity and femininity around the world.
+
+Gender as a process (Beckwith 2005):
+- The differential effects of structures and policies upon women and men.
+- The means by which masculine and feminine actors (often men and women, but not perfectly congruent, and often individuals but also structures) actively work to produce favourable gendered outcomes.
+
+## Hunt: Is Gender Like Ethnicity?
+
+Candidate quotas for cross-cutting groups; seat reservations for coinciding ones
+- Candidate quotas are more appropriate for groups that crosscut partisan cleavages, while reservations suit groups that coincide with them.
+- Gender identities tend to cut across parties, whereas ethnic identities often overlap with partisan affiliations.
+- Consequently, disadvantaged groups that are defined by gender demand, and are granted, candidate quotas; ethnic groups prefer, and receive, legislative reservations.
