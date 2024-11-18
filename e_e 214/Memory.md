@@ -2,6 +2,7 @@
 tags:
   - e_e_214
 created: 2024-10-16
+updated: 2024-11-18
 ---
 
 ![[Memory 2024-10-16 09.20.07.excalidraw]]
@@ -28,3 +29,8 @@ Universal register:
 Every flip-flop can enter a metastable state - the chance is very low, but not 0.
 
 To reduce the risk, we can just chain multiple flip-flops together.
+
+## Types of Flip-Flops
+
+**T-flip-flop**: $T \rightarrow 1; \overline T \rightarrow 0$
+**JK-flip-flop**: $J \rightarrow 1; K \rightarrow 0$

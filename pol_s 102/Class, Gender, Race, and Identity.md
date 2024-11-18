@@ -121,7 +121,7 @@ Gender as a process (Beckwith 2005):
 - The differential effects of structures and policies upon women and men.
 - The means by which masculine and feminine actors (often men and women, but not perfectly congruent, and often individuals but also structures) actively work to produce favourable gendered outcomes.
 
-## Hunt: Is Gender Like Ethnicity?
+## Htun: Is Gender Like Ethnicity?
 
 Candidate quotas for cross-cutting groups; seat reservations for coinciding ones
 - Candidate quotas are more appropriate for groups that crosscut partisan cleavages, while reservations suit groups that coincide with them.
