@@ -127,3 +127,6 @@ Candidate quotas for cross-cutting groups; seat reservations for coinciding ones
 - Candidate quotas are more appropriate for groups that crosscut partisan cleavages, while reservations suit groups that coincide with them.
 - Gender identities tend to cut across parties, whereas ethnic identities often overlap with partisan affiliations.
 - Consequently, disadvantaged groups that are defined by gender demand, and are granted, candidate quotas; ethnic groups prefer, and receive, legislative reservations.
+- Candidate quotas intervene in party nomination procedures by requiring that a certain percentage of the candidates fielded by a party be of a certain group.
+- Seat reservations, by contrast, guarantee group members a share of power independently, if need be, of existing parties.
+  - Separate electoral rolls, special electoral districts that can limit competition to group members, exceptions to counting rules, and provisions for direct appointment to the legislature
