@@ -66,4 +66,40 @@ $$ c_1 \cdot g(x) \leq f(x) \leq c_2 \cdot g(x), \forall x \geq x_0 $$
 - **Time complexity**: How execution time grows with input size.
 - **Space complexity**: How memory usage grows with input size.
 
+Purpose:
+- To compare algorithms objectively
+- To select the optimal algorithm
+
 Note: The y-axis is usually the # of operations instead of time. This is because time depends on hardware specs.
+
+## Steps for Finding Upper Bounds
+
+1. Identify dominant terms, exclude lower-order terms and constants
+2. Remove coefficients
+3. Confirm the inequality
+
+## Growth Patterns
+
+- **Exponential**: Grows very fast
+- **Geometric progression**: $a, ar, ar^2, ar^3, \dots$.
+- **Logarithmic decay**: Geometric, but with an $r < 1$.
+
+## Call Stack
+
+> *Definition: Call Stack*
+> A **call stack** is a data structure that keeps track of function calls in a program.
+
+It operates in a "last in, first out" (LIFO) manner.
+
+Helps in managing:
+- Function invocations
+- Local variables
+- Return addresses
+
+> *Definition: Stack Frame*
+> A **stack frame** contains:
+> - Function arguments
+> - Local variables
+> - Return address
+
+Useful resource: [Python Tutor](https://pythontutor.com)
