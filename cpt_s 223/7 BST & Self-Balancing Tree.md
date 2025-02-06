@@ -1,6 +1,7 @@
 ---
 tags:
   - cpt_s_223
+  - data_structures
 created: 2025-02-03
 ---
 
@@ -19,3 +20,9 @@ Different implementations of a self-balancing tree:
 ## AVL Trees
 
 New property: For every node, the *height difference* between its left and right subtrees is at most one.
+
+Four cases:
+- `LL` case: Perform a right rotation
+- `RR` case: Perform a left rotation
+- `LR` case: Perform a left rotation on the left subtree, then a right rotation
+- `LR` case: Perform a right rotation on the right subtree, then a left rotation
